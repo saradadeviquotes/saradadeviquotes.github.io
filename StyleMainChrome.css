@@ -9,7 +9,7 @@
 body { 
   margin: 0 auto; 
   margin-top: 75px; 
-  background-color: #89CDFD;
+  background-color: white; /*#89CDFD;*/
   /*background-image: radial-gradient(yellow, #89CDFD, white); /*url("b1.jpg");*/*/
 }
 
