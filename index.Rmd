@@ -91,7 +91,7 @@ knitr::opts_chunk$set(echo = T)
 
 <p>&nbsp;</p>
 <hr>
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 
 <div align="center"><p style="width: 60%;"><i>
 <font size=4>বিভিন্ন গ্রন্থ থেকে সংগৃহীত শ্রীশ্রীমায়ের উক্তিসমূহ</font></i></p>
