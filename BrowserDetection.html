@@ -1,0 +1,62 @@
+
+<!-- This file uses javascript code to detect browser (chrome, safari, firefox etc.)
+and inserts corresponding css file. Different browsers may have different 
+different relative positions. So, this file is necessary to use the right css 
+file to get the right view. -->
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- js function to add a css file to the header -->
+<script>
+function addCss(fileName) {
+
+  var head = document.head;
+  var link = document.createElement("link");
+
+  link.type = "text/css";
+  link.rel = "stylesheet";
+  link.href = fileName;
+
+  head.appendChild(link);
+}
+</script>
+
+<!-- js function to choose to css file matching with browser type -->
+<script>
+function myFunction() { 
+    if((navigator.userAgent.indexOf("Opera") || navigator.userAgent.indexOf('OPR')) != -1 ) 
+    {
+        addCss("StyleMainChrome.css");
+    }
+    else if(navigator.userAgent.indexOf("Chrome") != -1 )
+    {
+        addCss("StyleMainChrome.css");
+    }
+    else if(navigator.userAgent.indexOf("Safari") != -1)
+    {
+        addCss("StyleMainSafari.css");
+    }
+    else if(navigator.userAgent.indexOf("Firefox") != -1 ) 
+    {
+         addCss("StyleMainChrome.css");
+    }
+    else if((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) //IF IE > 10
+    {
+      addCss("StyleMainChrome.css"); 
+    }  
+    else 
+    {
+       addCss("StyleMainChrome.css");
+    }
+    }
+</script>
+
+<!-- js script to execute the above functions -->
+<script>
+myFunction();
+</script>
+
+</body>
+</html>
