@@ -59,7 +59,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P002.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 ইহার কিছু পূর্বে আরও দুইটি স্ত্রী-ভক্ত এসেছিলেন; তন্মধ্যে একজন বৃদ্ধা সধবা ঠাকুরের সময়ের এবং অপরটি তাঁর পুত্রবধূ ! বৃদ্ধাটি খেতে খেতে বললেন, “আহা, ঠাকুর আমাদের যে-সব কথা বলে গেছেন, তা কি আমরা পালতে পেরেছি, তা হলে এত ভোগ ভুগবে কে, মা ? সংসার সংসার করেই মরছি -- একাজ হল না, সেকাজ হল না -- এই কেবল করছি।” মা তাঁর ঐ কথায় বললেন, “কাজ করা চাই বই কি, কর্ম করতে করতে কর্মের বন্ধন কেটে যায়, তবে নিষ্কাম ভাব আসে। একদন্ডও কাজ ছেড়ে থাকা উচিত নয়।” <br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ১৯ (সরযূবালা দেবীর স্মৃতিচারণ)
@@ -95,7 +95,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P003.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 গৈরিকধারিণী -- মূর্তিপূজায় কিছু সত্য আছে কি-না? আমাদের গুরু বলেন, ‘মূর্তিপূজা কিছু নয়, সূর্যের ও অগ্নির উপাসবা কর।’
 মা -- তোমার গুরু যখন বলেছেন, তখন ওকথা আমায় জিজ্ঞাসা না করাই ঠিক। গুরুবাক্যে বিশ্বাস রাখতে হয়।
@@ -133,7 +133,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P004.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা বললেন, “ঠাকুর ও আমাকে অভেদ-ভাবে দেখবে, আর যখন যে ভাবে দর্শন পাবে, সেই ভাবেই ধ্যান-স্তুতি করবে, ধ্যান হ'য়ে গেলেই পূজা শেষ হ'ল। এইখানেই (হৃদয়ে) আরম্ভ ও এইখানেই (মস্তকে) শেষ করবে।” এই বলে দেখিয়ে দিলেন।
 মা -- মন্ত্র-তন্ত্র কিছু নয়, মা, ভক্তিই সব। ঠাকুরের মাঝে গুরু, ইষ্ট, সব পাবে। উনিই সব। <br><br>
@@ -170,7 +170,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P005.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 তাঁর কিছু উপদেশ চাইতে মা একটু হেসে বললেন, “আমি আর কি উপদেশ দেব। ঠাকুরের কথা সব বইয়ে বেরিয়ে গিয়েছে। তাঁর একটা কথা ধারণা ক'রে যদি চলতে পার, তো সব হ'য়ে যাবে।” শ্রীশ্রীমা খুঁটিনাটি অনেক কথা তাঁদের জিজ্ঞাসা করলেন। তাঁরা বিদায় নিলে মা আমাকে বললেন, “উপদেশ নেয় তেমন আধার কই? আধার চাই, মা, নইলে হয় না।” <br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৮ (সরযূবালা দেবীর স্মৃতিচারণ)
@@ -206,7 +206,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P006.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আশীর্বাদ করে “দুর্গা, দুর্গা” বলতে বলতে উঠে বসলেন। যাবার পূর্বে একান্তে আমাদের বললেন, “দেখ, মা, স্বামী-স্ত্রী একমত হ'লে তবে ধর্মলাভ হয়।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৯ (সরযূবালা দেবীর স্মৃতিচারণ)
@@ -242,7 +242,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P007.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 এমন সময় বলরামবাবুর বাড়ির চাকর “ঠাকুর-মা, ঠাকুর-মা” ক'রে ডেকে ঠাকুরঘরে কতকগুলো আতা রেখে গেল। একটু চুপড়িতে আতা ছিল, লোকটি নীচে সাধুদের কাছে গিয়ে চুপড়িটি কি করবে জিজ্ঞাসা করায় তাঁরা বললেন, “ও আর কি হবে রাস্তায় ফেলে দে।” সে ফেলে দিয়ে চলে যেতেই মা উঠলেন এবং ঠাকুরঘরের রাস্তার দিকের বারান্ডায় গিয়ে আমাকে ডেকে বলছেন, “দেখেছ কেমন সুন্দর চুপড়িটি! ওরা তখন ফেলে দিতে বললে। ওদের কি? সাধু মানুষ ও সবে কি আর মায়া আছে? আমাদের কিন্তু সামান্য জিনিসটিও অপচয় করা সয় না। এটি থাকলে তরকারির খোসাও রাখা চলত।” এই ব'লে চুপড়িটি আনিয়ে ধুইয়ে রেখে দিলেন। মার এই কথায় ও কাজে আমার বেশ একটা শিক্ষা হ'য়ে গেল।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪১ (সরযূবালা দেবীর স্মৃতিচারণ)
@@ -278,7 +278,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P008.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 কিছুক্ষণ পরে নীচে একজন ভিক্ষুক এসে ‘ভিক্ষে দাও’ বলে চীৎকার করছিল। সাধুরা বিরক্ত হ'য়ে তাকে তাড়া দিয়ে উঠেছেন “যাঃ, এখন দিক্ করিস্ নে।” মা তাই শুনতে পেয়ে বললেন, “দেখেছ দিলে ভিখারীকে তাড়িয়ে! ঐ যে নিজেদের কাজ ছেড়ে একটু উঠে এসে ভিক্ষা দিতে হবে, এইটুকুও আর পারলে না, আলস্য হ'ল। ভিখারীকে একমুঠো ভিক্ষা দিতে পারলে না। যার যা প্রাপ্য, তা হ'তে তাকে বঞ্চিত করা কি উচিৎ? এই যে তরকারির খোসাটা, এও গরুর প্রাপ্য। ওটিও গরুর মুখের কাছে ধরতে হয়।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪১ (সরযূবালা দেবীর স্মৃতিচারণ)
@@ -314,7 +314,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P009.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- দেখ, মা, সকলেই ব'লে ‘এ দুঃখ, ও দুঃখ-ভগবানকে এত ডাকলুম, তবু দুঃখ গেল না।’ কিন্তু দুঃখই তো ভগবানের দয়ার দান।
 সেদিন আমার মনটা বড় দুঃখ-ভারাক্রান্ত ছিল, তাই কি মা টের পেয়ে ঐ কথাগুলি বললেন? মা বলতে লাগলেন, “সংসারে দুঃখ কে না পেয়েছে বল? বৃন্দে বলেছিল কৃষ্ণকে, ‘কে বলে তোমাকে দয়াময়? রাম-অবতারে সীতাকে কাঁদিয়েছ, কৃষ্ণ-অবতারে রাধাকে কাঁদাচ্ছ। আর কংস-কারাগারে দুঃখ-কষ্টে দিনরাত কৃষ্ণ কৃষ্ণ করেছে তোমার পিতামাতা। তবে যে তোমাকে ডাকি তা এইজন্য যে তোমার নামে শমনভয় থাকে না।’ ”<br><br>
@@ -351,7 +351,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P010.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “শোন মা, যত বড় মহাপুরুষই হোক, দেহধারণ ক'রে এলে দেহের ভোগটি সবই নিতে হয়। তবে তফাৎ এই, সাধারণ লোক যায় কাঁদতে কাঁদতে, আর ওঁরা যান হেসে হেসে--মৃত্যুটা যেন খেলা।” <br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৫০ (সরযূবালা দেবীর স্মৃতিচারণ)
@@ -387,7 +387,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P011.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- আচ্ছা, মা, সংসারে তো স্ত্রীলোকদের স্বামী একান্ত পূজ্য ও গুরু। তাঁর সেবায় সালোক্য, সাযুজ্য পর্যন্ত মিলে থাকে-শাস্ত্রে বলে। সেই স্বামীর কতকটা মতের বিরুদ্ধে কোন স্ত্রী যদি অনুনয়-বিনয় বা সদালাপ দ্বারা সংযমী হ'য়ে থাকতে চেষ্টা করে তাতে কি পাপ হয়?
 মা -- ভগবানের জন্য হ'লে কোন পাপ হয় না, মা। কেন হবে? ইন্দ্রিয়-সংযম চাই, এই যে বিধবাদের এত ব্যবস্থা সব ইন্দ্রিয়সংযমের জন্যে।<br><br>
@@ -424,7 +424,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P012.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- কত সৌভাগ্য, মা এই জন্ম, খুব ক'রে ভগবান্‌কে ডেকে যাও। খাটতে হয়, না খাটলে কি কিছু হয়? সংসারে কাজকর্মের মধ্যেও একটি সময় ক'রে নিতে হয়। আমার কথা কি বলবো, মা, আমি তখন দক্ষিণেশ্বরে রাত তিনটের সময় উঠে জপে বসতুম। কোন হুঁশ থাকতো না। একদিন জোছনা রাতে নবতে সিঁড়ির পাশে ব'সে জপ করছি, চারিদিন নিস্তব্ধ। ঠাকুর যে সেদিন কখন ঝাউতলায় শৌচে গেছেন, কিছুই জানতে পারি নি-অন্যদিন জুতোর শব্দে টের পাই। খুব ধ্যান জমে গেছে। তখন আমার অন্য রকম চেহারা ছিল-গয়না পরা, লালপেড়ে শাড়ী। গা থেকে আঁচল খসে বাতাসে উড়ে পড়ছে, কোন হুঁশ নেই। ছেলে যোগেন সেদিন ঠাকুরের গাড়ু দিতে গিয়ে আমাকে ঐ অবস্থায় দেখেছিল। সে সব কি দিনই গিয়েছে, মা! জোছনা রাতে চাঁদের পাতে তাকিয়ে জোড় হাত ক'রে বলেছি, ‘তোমার ঐ জোছনার মতো আমার অন্তর নির্মল করে দাও।’ জপধ্যান করতে করতে দেখবে-(ঠাকুরকে দেখিয়ে) উনি কথা কবেন, মনে যে বাসনাটি হবে তক্ষুণি পূর্ণ ক'রে দেবেন-কি শান্তি প্রাণে আসবে! আহা! তখন কি মনই ছিল আমার! বৃন্দে (ঝি) একদিন আমার সামনে একটি কাঁসি গড়িয়ে (ঠেলা মেরে) দিলে, আমার বুকের মধ্যে যেন এসে লাগল (মা নবতে ধ্যানস্থা ছিলেন, তাই শব্দটা যেন বজ্রের মতো লেগেছিল-কেঁদে ফেলেছিলেন)। সাধন করতে করতে দেখবে আমার মাঝে যিনি, তোমার মাঝেও তিনি, দুলে বাগ্‌দি ডোমের মাঝেও তিনি-তবে তো দীন ভাব আসবে।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৭৫ (সরযূবালা দেবীর স্মৃতিচারণ)
@@ -460,7 +460,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P013.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- মানুষের আর কতটুকু বুদ্ধি? কি চাইবে কি চাইবে। শেষে কি শিব গড়তে বানর হ'য়ে যাবে। তাঁর শরণাগত হ'য়ে থাকা ভাল। তিনি যখন যেমন দরকার, তেমন দিবেন। তবে ভক্তি ও নির্বাসনা কামনা করতে হয়--এ কামনা কামনার মধ্যে নয়।
 আমি--ঠাকুর বলেছেন, ‘এখানে যাঁরা আসবে তাদের শেষ জন্ম।’ আবার স্বামীজী বলেছেন, ‘সন্ন্যাস না হ'লে কারও মুক্তি নেই।’ গৃহীদের তবে উপায়?
@@ -498,7 +498,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P014.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা, যতক্ষণ আপনার নিকট থাকি, খুব ভাল থাকি। সংসারের কোন চিন্তা আমার থাকে না। আর যেমন বাড়ি যাই, অমনি মনে নানা কুচিন্তা আসে। আবার সেই পুরনো অসৎ সঙ্গীদের সঙ্গে মিশি, আর অন্যায় কাজ করি। যত চেষ্টা করি, কিছুতেই কুচিন্তা দূর করতে পারি না।
 মা -- “ও তোমার পূর্বজন্মের সংস্কারে হচ্ছে। জোর করে (হঠাৎ) কি ও ছাড়া যায়? সৎসঙ্গে মেশো, ভাল হতে চেষ্টা কর, ক্রমে সব হবে। ঠাকুরকে ডাকো। আমি রইলুম। তুমি এ জনমে মুক্ত হ'য়ে রয়েছ, জানবে। ভয় কি? সময় আসলে তিনিই সব ক'রে দেবেন।”<br><br>
@@ -535,7 +535,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P015.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একদিন জিজ্ঞাসা করিলাম, “মা, ভগবানের নাম করলেও কি প্রারব্ধ ক্ষয় হয় না?”
 মা বলিলেন, “প্রারব্ধের ভোগ ভুগতেই হয়। তবে ভগবানের নাম করলে এই হয়--যেমন একজনের পা কেটে যাবার কথা ছিল, সেখানে একটা কাঁটা ফুটে ভোগ হ'ল।”<br><br>
@@ -572,7 +572,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P016.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি আর একজন সাধুর নাম করিয়া বলিলাম যে, তিনিও অনেক লোককে দীক্ষা দিতেছেন। মা বলিলেন, “এ সব অনেকটা ব্যবসাদার সাধু। তবে কি জান, এতেও উপকার হবে। মানুষ তো কিছু করে না। এদের কথাতেও কিছু কিছু ভগবানের নাম করবে।”
 “আন্তরিক হ'লে শেষটা ক্রমে এখানেই এসে পড়বে। দেখছ না এখন তারকব্রহ্ম নামের ছড়াছড়ি। একটু সার থাকলে কেউ বড় বাদ যাবে না।”<br><br>
@@ -609,7 +609,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P017.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 জয়রামবাটীতে একদিন রাত্রি প্রায় ভোরের সময় বহির্বাটীতে একটি গো-বৎস বড়ই চীৎকার করিতেছিল। দুধের জন্য তাহাকে মায়ের নিকট হইতে দূরে বাঁধিয়া রাখা হইয়াছিল। চীৎকার শুনিয়া মা এই বলিতে বলিতে ছুটিয়া আসিলেন - “যাই মা, যাই, আমি এক্ষুণি তোকে ছেড়ে দেবো, এক্ষুণি ছেড়ে দেবো।” আসিয়াই গো-বৎসের বন্ধন মুক্ত করিয়া দিলেন। আমি অবাক হইয়া জগন্মাতার সর্বভূতে করুণাময়ী মূর্তি দেখিলাম। হায়! এমনি করিয়া ডাকিতে পারিলেই তো বন্ধনমুক্ত হয়।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ১৩০ (শ্রীসুরেন্দ্রনাথ সরকারের স্মৃতিচারণ)
@@ -645,7 +645,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P018.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা; আপনি এরূপ কথা বললে আমাদের বড় কষ্ট হয়। আপনি যদি চলে যান, আমাদের উপায় কি হবে? আমাদের ত্যাগ-তপস্যার বিশেষ অভাব। বৈরাগ্য তো একেবারে নেই বললেই চলে। আপনার শরীর না থাকলে আমরা কিসের জোরে মহামায়ার রাজত্বে বেঁচে থাকব? মনে যখন কোন দুর্বলতা এসেছে, আপনার কাছে ব'লে তা হ'তে বাঁচবার রাস্তার খবর পেয়েছি। এখন আমরা কোথায় যাব? আমাদের যে একেবারেই নিরাশ্রণ হ'য়ে পড়তে হবে।
 মা -- (দৃঢ়তার সহিত বলিলেন) কি! তোমরা নিরাশ্রয় হবে কেন? ঠাকুর কি তোমাদের ভালমন্দ দেখছেন না? অত ভাবো কেন? তোমাদের যে তাঁর পায়ে সঁপে দিয়েছি। একটা গণ্ডির মধ্যে তোমাদের ঘুরতে হবেই, অন্য কোথাও যাবার জো নেই। তিনি সর্বদা তোমাদের রক্ষা করছেন।<br><br>
@@ -682,7 +682,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P019.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- ঠাকুরের দয়ার কথা অনেক সময় মনে হলেও সব সময় ঠিক বুঝতে পারি না। অনেক সময় বিশ্বাস হয়, অনেক সময় সন্দেহও আসে। আপনাকে সাক্ষাৎ দেখছি, ভাল মন্দ অনেক কথা বলেছি, আপনিও তার ভাল মন্দ বিচার ক'রে কখন কিভাবে চললে আমার ভাল হবে, বলে দিয়েছেন। এতে আপনার কাছে আশ্রয় পেয়েছি, এটা বিশ্বাস হয়।
 মা বলিলেন, “ঠাকুর একমাত্র রক্ষাকর্তা-এটি সর্বদা মনে রাখবে। এটি ভুললে সব ভুল।”<br><br>
@@ -719,7 +719,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P020.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা, আপনার অবর্তমানে কার কাছে যাব, কি হবে, ভাবতে গেলে বড় ভয় হয়।
 মা বলিলেন, “কেন, এই রাখাল টাখাল এই সব ছেলেরা রয়েছে, এরা কি কম? তুমি তো রাখালকেও খুব ভালবাস। তার কাছে জিজ্ঞাসা ক'রে নেবে। কি আর জিজ্ঞাসাই বা করবে। বেশী জিজ্ঞাসা করা ভাল নয়। একটা জিনিস হজম করতে পার না, আবার দশটা জিনিস মনের মধ্যে পুরে এটা না ওটা কেবল এই চিন্তা। যা জিনিস পেয়েছ, তাইতে ডুবে যাও। জপধ্যান করবে, সৎসঙ্গে থাকবে, অহঙ্কার কিছুতেই মাথা তুলতে দেবে না। দেখছ না রাখালের কেমন বালকভাব, এখনও যেন ছোট ছেলেটি। শরৎকে দেখ না, কত কাজ করে, কত হাঙ্গামা পোহায়-মুখ বুঁজে থাকে। ও সাধু মানুষ, ওর এত সব কেন? ওরা ইচ্ছা করলে দিনরাত ভগবানে মন লাগিয়ে ব'সে থাকতে পারে। কেবল তোমাদের মঙ্গলের জন্যই এদের নেমে থাকা। এদের চরিত্র চোখের সামনে ধ'রে রাখবে, এদের সেবা করবে; আর সর্বদা মনে ভাববে আমি কার সন্তান, কার আশ্রিত! যখনই মনে কোন কু-ভাব আসবে, মনকে বলবে-তাঁর ছেলে হ'য়ে আমি কি এ কাজ করতে পারি? দেখবে-মনে বল পাবে, শান্তি পাবে।”<br><br>
@@ -756,7 +756,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P021.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 পরের একটি ছেলে নিয়ে মানুষ করতে চেয়েছিলুম। তার উত্তরে রাধুর জন্য নিজের অবস্থা দেখিয়ে মা বলেছিলেন, “অমন কাজও করো না। যার উপর যেমন কর্তব্য ক'রে যাবে, কিন্তু ভাল এক ভগবান্ ছাড়া আর কাউকে বেসো না। ভালবাসলে অনেক দুঃখ পেতে হয়।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ১৪৩ (অজ্ঞাত একজনের স্মৃতিচারণ)
@@ -792,7 +792,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P022.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 নারায়ণ আয়াঙ্গার -– জপ করবার সময় কি আচমন করা প্রয়োজন?
 মা -– হ্যাঁ; ঘরে হ'লে আসন-আচমন প্রয়োজন। রাস্তায় বা অন্যত্র পথে ঘাটে নাম করলেই হবে।
@@ -831,7 +831,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P023.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি –- মানুষ তো কিছুই করতে পারে না, তিনিই তো সব করাচ্ছেন।
 মা –- তিনি সব করাচ্ছেন বটে, কিন্তু সেরূপ বোধ থাকলে তো হয়? লোকে অহঙ্কারে মত্ত হয়ে মনে করে, আমি সব করছি-তাঁর উপর নির্ভর করে না। যে তাঁর উপর নির্ভর করে, তিনি তাকে সকল বিপদ হতে রক্ষা করেন।<br><br>
@@ -868,7 +868,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P024.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “তবে একটা কথা বলি-যদি শান্তি চাও, মা, কারো দোষ দেখো না। দোষ দেখবে নিজের। জগৎকে আপনার ক'রে নিতে শেখ, কেউ পর নয়, মা; জগৎ তোমার।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২০২ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -904,7 +904,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P025.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -– মানুষ তো কিছুই করতে পারে না, তিনিই তো সব করাচ্ছেন।
 মা -– তিনি সব করাচ্ছেন বটে, কিন্তু সেরূপ বোধ থাকলে তো হয়? লোকে অহঙ্কারে মত্ত হয়ে মনে করে, আমি সব করছি-তাঁর উপর নির্ভর করে না। যে তাঁর উপর নির্ভর করে, তিনি তাকে সকল বিপদ হতে রক্ষা করেন।<br><br>
@@ -941,7 +941,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P026.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা, এই যে ঠাকুরকে সকলে পূর্ণব্রহ্ম সনাতন বলে, তুমি কি বল?
 মা -- হাঁ, তিনি আমার পূর্ণব্রহ্ম সনাতন।
@@ -984,7 +984,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P027.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- বাবা, তোমার পূর্ণজ্ঞান আমার আশীর্বাদে যদি হয়, আমি হাড় ভেড়ে আশীর্বাদ করব।
 -- মানুষের কি সাধ্য যে আপনি এ মায়ার হাত থেকে তরতে পারে? তাই তো ঠাকুর এত সাধনা করলেন, সব ফল জীবোদ্ধারে দিয়ে গেলেন।
@@ -1025,7 +1025,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P028.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি মন্ত্রদীক্ষার কথা তুলিয়া বলিলাম, “আচ্ছা মা, মন্ত্র নেবার কি দরকার? মন্ত্রজপ না ক'রে কেউ যদি ‘মা কালী, মা কালী’ বলে ডাকে, তাতে হয় না?”
 মা -- মন্ত্রের দ্বারা দেহশুদ্ধি হয়। ভগবানের মন্ত্র জপ ক'রে মানুষ পবিত্র হয়। ইহা বলিয়া একটি গল্প বলিলেন-
@@ -1070,7 +1070,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P029.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 নিজের কথা বলিতেছেন -- “বলরামবাবু বলতেন, ‘ক্ষমারূপা তপস্বিনী’।” বলিয়াই আবার বলিলেন, ‘দয়া যার শরীরে নাই, সে কি মানুষ? সে তো পশু। আমি কখনও কখনও দয়ায় আত্মহারা হয়ে যাই, ভুলে যাই যে আমি কে।’<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২১১ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -1106,7 +1106,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P030.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 ইহাতে মাস্টার মহাশয়ের ‘শ্রীশ্রীরামকৃষ্ণকথামৃতের’ কিয়দংশ বাহির হইয়াছে। আর কেহ তথায় ছিল না। একস্থানে পড়িতেছিলাম-
 “গিরিশ -- একটি সাধ।
@@ -1151,7 +1151,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P031.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 ঘরের বারান্দায় বসিয়াছিলেন, প্রভাত হইলে তিনি তাঁহার সম্মুখের লণ্ঠনটি নিবাইলেন; বলিতে লাগিলেন, “গঙ্গা, গীতা, গায়ত্রী, ভাগবত, ভক্ত, ভগবান, শ্রীরামকৃষ্ণ, শ্রীরামকৃষ্ণ।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২১৪ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -1187,7 +1187,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P032.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 রাত্রে মায়ের ঘরে কথা হইতেছে।  মা তক্তাপোশে শুইয়া আছেন। বেদান্তের কথা উঠিয়াছে। আমি বলিলাম, “নামরূপ ছাড়া আর কিছুই নেই। জড় পদার্থ ব'লে কিছুই প্রমাণ করা যায় না। তাই শেষে বলে। ঈশ্বর-টীশ্বর কিছুই নেই।” (আমার মনের ভাব-ঠাকুর, মা, এসবও মিথ্যা।)
 মা শুনিয়াই আমার কথার ভাব বুঝিতে পারিয়েছন। অমনি বলিতেছেন, “নরেন বলেছিল, ‘মা, যে জ্ঞানে গুরুপাদপদ্ম উড়িয়ে দেয় সে তো অজ্ঞান। গুরুপাদপদ্ম উড়িয়ে দিলে জ্ঞান দাঁড়ায় কোথায়?’ তুমি জ্ঞানচচ্চড়ি ছেড়ে দাও। তাঁকে কে জানতে পেরেছে? শুক, ব্যাস, শিব হদ্দ ডেও পিঁপড়ে।”
@@ -1226,7 +1226,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P033.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আবার সৃষ্টির কথা উঠিল।
 আমি -- আচ্ছা, এই যে সব অসংখ্য প্রাণী-ছোট, বড়, সব কি এক সময়ে সৃষ্টি হয়েছে না কি?
@@ -1264,7 +1264,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P034.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মায়ের ঘরে ডেও পিঁপড়ে খাবারের গন্ধে আশেপশে ঘুরিতেছিল। হঠাৎ তাহার একটি চক্ষে পড়ায় অঙ্গুলি-নির্দেশ করিয়া বলিলাম, “তবে এই পিঁপড়েটা এত পাছে পড়ল কেন? ওর তো মানুষ হতেই অনেক দেরি।" মা বলিলেন, “হাঁ, অনেক দেরি।” পরে এই সৃষ্টি-প্রসঙ্গেই বলিলেন, “কল্পান্তে সব যেন ঘুম থেকে ওঠে।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২২২ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -1300,7 +1300,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P035.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 ইহার পর আমি জপতপের কথা জিজ্ঞাসা করিলাম। মা বলিলেন, “জপ-তপের দ্বারা কর্মপাশ কেটে যায়। কিন্তু ভগবানকে প্রেমভক্তি ছাড়া পাওয়া যায় না। জপ-তপ কি জান? ওর দ্বারা ইন্দ্রিয়-টিন্দ্রিয়গুলোর প্রভাব কেটে যায়।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২২২ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -1336,7 +1336,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P036.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 ললিতবাবুর (চাটুজ্যে) কথা উঠিল। কয়েক মাস যাবৎ তাঁহার খুব ব্যারাম সঙ্কটাপন্ন অবস্থা। মা তাঁহাতে খুব ভালবাসেন এবং তাঁহার জন্য বিশেষ চিন্তিত আছেন। বলিতেছেন, “ললিত আামাকে কত টাকা দিত, তার গাড়িতে ক'রে বেড়াতে নিয়ে যেত। দক্ষিণেশ্বরে ঠাকুরের সেবায় ও (কামারপুকুরে) রঘুবীরের সেবায় অনেক টাকা দেয়। আমার ললিতের লাখ টাকার প্রাণ। অনেকে টাকা থেকেও কৃপণ।” পরে বলিলেন, “যার আছে সে মাপো, যার নেই সে জপো।” (যার অর্থাদি আছে সে ভক্ত-ভগবানের সেবা করুক। আর যার নেই সে ভগবানের নামজপ করুক। এই উভয় উপায়েই ভগবানের কৃপা লাভ করা যায়।)<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২২২ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -1372,7 +1372,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P037.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “বাসনা থাকতে জীবের যাতায়াত ফুরায় না, বাসনাতেই দেহ হতে দেহান্তর হয়। একটু সন্দেশ খাবার বাসনা থাকলেও পুনর্জন্ম হয়। তাই তো মঠে এত জিনিস আসে। বাসনাটি সূক্ষ্ম বীজ-যেমন বিন্দুপরিমাণ বটবীজ হতে কালে প্রকাণ্ড বৃক্ষ হয়, তেমনই। বাসনা থাকলে পুনর্জন্ম হবেই, যেন এক খোল থেকে নিয়ে আর এক খোলে ঢুকিয়ে দিলে। একেবারে বাসনাশূন্য হয় দু-একটি। তবে বাসনায় দেহান্তর হলেও পূর্বজ্ন্মের সুকৃতি থাকলে চৈতন্য একেবারে হারায় না।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২২৫ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -1408,7 +1408,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P038.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মহোৎসব-কীর্তনে কি উদ্ধার হয়?
 মা -- হাঁ, বৈষ্ণবদের ওতেই হয়। তাদের শ্রাদ্ধাদি করে না।
@@ -1448,7 +1448,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P039.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা, যদি ঈশ্বর ব'লে কেউ থাকেন তবে জগতে এত দুঃখকষ্ট কেন? তিনি কি দেখছেন না? তাঁর কি এসব দূর করবার শক্তি নেই?
 মা -- সৃষ্টিই সুখদুঃখময়। দুঃখ না থাকলে সুখ কি বোঝা যায়? আর সকলের সুখ হওয়া সম্ভব কি ক'রে? সীতা বলেছিলেন রামকে, ‘তুমি সকলের দুঃখকষ্ট দূর ক'রে দাও না কেন? রাজ্যে যত প্রজা লোকজন আছে সকলকে সুখে রাখ। তুমি তো ইচ্ছা করলেই পার।’ রাম বললেন, ‘সকলের সুখ একসঙ্গে কি হয়?’
@@ -1489,7 +1489,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P040.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- সবই কর্ম থেকে হয়?
 মা -- কর্ম না তো কি? দেখছ না, এই যে মেথর বিষ্ঠার ভার বইছে!
@@ -1532,7 +1532,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P041.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি-গয়ায় পিণ্ড দিলেই কি ভগবানের কাছে যায়?
 মা -- হাঁ যায়।
@@ -1571,7 +1571,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P042.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 রাত্রে খাইবার পর উপরে পান আনিতে গিয়া শুনি, মা বলিতেছেন, “নরেন বলছিল, ‘মা, আমার আজকাল সব উড়ে যাচ্ছে। সব দেখছি উড়ে যায়।’ আমি বললুম (হাসিয়া বলিতেছেন), ‘দেখো দেখো, আমাকে কিন্তু উড়িয়ে দিও না!’ নরেন বললে, ‘মা, তোমাকে উড়িয়ে দিলে থাকি কোথায়? যে জ্ঞানে গুরুপাদপদ্ম উড়িয়ে দেয় সে তো অজ্ঞান। গুরুপাদপদ্ম উড়িয়ে দিলে দাঁড়ায় কোথায়?’”
 ইহা বলিয়াই আবার বলিতেছেন, “জ্ঞান হলে ঈশ্বর-টীশ্বর সব উড়ে যায়। ‘মা, মা’ শেষে দেখে, মা আমার জগৎ জুড়ে! সব এক হয়ে দাঁড়ায়। এই তো সোজা কথাটা!”<br><br>
@@ -1608,7 +1608,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P043.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- ছবিতে কি ঠাকুর আছেন?
 মা -- আছেন না? ছায়া কায়া সমান।* ছবি তো তাঁর ছায়া।
@@ -1650,7 +1650,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P044.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “তাঁর খাবার কি দরকার? তিনি ভক্তের সন্তোষের জন্য আসেন, খান। প্রসাদ খেলে চিত্তশুদ্ধি হয়। এমনি অন্ন খেলে চিত্ত মলিন হয়।” 
 আমি -- সত্যই কি ঠাকুর খান?
@@ -1696,7 +1696,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P045.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- আমাদের কি দৌড় ঐ পর্যন্ত, যে যা চায়, তাকে তাই দিয়ে তিনি বিদায় করে দিলেন? না এ ছাড়া আপনার মতো করে তাঁকে পাওয়া যায়? তিনি আমার আপনার কি না?
 মা -- হাঁ, তিনি আপনার। চিরসম্বন্ধ। তিনি সকলের আপনার, যেমন ভাব তেমনি লাভ।
@@ -1737,7 +1737,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P046.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “ভাঙতে সব্বাই পারে, গড়তে পারে ক'জনে? নিন্দা ঠাট্টা করতে পারে সব্বাই, কিন্তু তাকে ভাল করতে পারে ক'জনে? দুর্বলতা তো মানুষের আছেই।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৪২ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -1773,7 +1773,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P047.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “দেবতা বল, যা বল-সব এসে পৃথিবীতে জন্মাচ্ছে। সূক্ষ্মদেহে তো আর খাওয়া-পরা, কথাবার্তা কিছু নেই, তাই বেশী দিন থাকতে পারে না।”
 আমি -- খাওয়া-পরা কথাবার্তা নেই, তবে কি নিয়ে সময় কাটায়?
@@ -1813,7 +1813,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P048.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা, ঠাকুর বলতেন যে ঈশ্বরকোটি নির্বাণের (নির্বিকল্প সমাধির) পরও ফেরে, আর কেউ পারে না, এর মানে কি?
 মা -- ঈশ্বরকোটি নির্বাণের পরও মনটি গুছিয়ে আনতে পারে।
@@ -1856,7 +1856,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P049.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা, এই অনন্ত সৃষ্টিতে কোথায় কি হচ্ছে কে জানে? এই যে অসংখ্য গ্রহ-নক্ষত্র, ওতে কোন জীবের বাস আছে কি না কে বলবে?
 মা -- মায়ার রাজ্যে সর্বজ্ঞ হওয়া একমাত্র ঈশ্বরেই সম্ভবে। ওসব গ্রহ-নক্ষত্রে কোন জীবের বাস নেই।<br><br>
@@ -1893,7 +1893,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P050.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা, ভগবান-দর্শন মানে কি জ্ঞানচৈতন্যলাভ? না আর কিছু?
 মা -- জ্ঞানচৈতন্যলাভ না তো আর কি? নতুবা কি দুটো শিং বেরোয়?
@@ -1932,7 +1932,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P051.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- আচ্ছা, মা, কেউ চাচ্ছে কিন্তু পাচ্ছে না; আবার কেউ চাচ্ছে না, তাকে দিচ্ছেন-এ কথার মানে কি?
 মা -- ঈশ্বর বালকস্বভাব কি না! কেউ চাচ্ছে, তাকে দিচ্ছেন না; আবার কেউ চায় না, তাকে সেধে দিচ্ছেন। হয়তো তার পূর্বজন্মে অনেক এগুনো ছিল। তাই তার উপর কৃপা হয়ে গেল।
@@ -1973,7 +1973,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P052.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “তখনকার কত সব ভক্ত ছিল। এখন যারা আসছে, কেবল বলছে, ‘ঠাকুর দেখিয়ে দাও।’ সাধন নেই, ভজন নেই, জপ-তপ নেই, কত জন্মে কত কি করেছে-কত গোহত্যা, ব্রহ্মহত্যা, ভ্রুণহত্যা করেছে! সে সব ক্রমে ক্রমে কাটবে, তবে তো? আকাশে চাঁদটি মেঘে ঢেকেছে। ক্রমে ক্রমে হাওয়ায় মেঘটি সরে যাবে, তবে তো চাঁদটি দেখতে পাবে। ফস করে কি যায়? এও তো তেমনি।
 “ধীরে ধীরে কর্মক্ষয় হয়। ভগবানলাভ হলে ভেতরে ভেতরে তিনি জ্ঞানচৈতন্য দেন-নিজে জানতে পারে।”<br><br>
@@ -2010,7 +2010,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P053.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 গতরাত্রে গিরিশবাবু দেহত্যাগ করিয়াছেন, সেই প্রসঙ্গে জিজ্ঞাসা করিলাম, “মা, যারা মৃত্যুর পূর্বে অজ্ঞান হয়ে দেহত্যাগ করে, তাদের কি ক'রে সদ্‌গতি হয়?”
 মা -- অজ্ঞান হবার পূর্বে যে চিন্তাটি ছিল, যে চিন্তাটি নিয়ে অজ্ঞান হয়েছে। সেই চিন্তাটি অনুসারে গতি হয়।<br><br>
@@ -2047,7 +2047,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P054.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 গৌরমা উপস্থিত ছিলেন। তিনি কথাপসঙ্গে বলিলেন, “ঠাকুর আর দুবার আসবেন বলেছেন। একবার বাউল সেজে।”
 মা -- হাঁ, ঠাকুর বলেছিলেন, ‘তোমার হুঁকোকলকে হাতে থাকবে।’ ভাঙা একটু পাথরের বাসন ঠাকুরের হাতে থাকবে। হয়তো ভাঙা কড়ায় রান্না হবে। যাচ্ছেন তো যাচ্ছেন-কোন ভ্রুক্ষেপ নেই।
@@ -2086,7 +2086,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P055.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- জড়ভরত, দত্তাত্রেয়-সেই ব্রহ্মর্ষি, ঈশ্বরকোটি।
 মা -- যেমন ঠাকুরের ছেলেরা? এরা সব ঈশ্বরকোটি না? যোগীনকে অর্জুন বলতেন। স্বামীজীকে সপ্তর্ষি থেকে এনেছিলেন। বাবুরামকে নৈকষ্যকুলীন বলতেন। নিরঞ্জন, পূর্ণ, রাখাল।
@@ -2132,7 +2132,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P056.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- কথায় মত্ত হওয়া ভাল নয়। মন্দটাই ভেবে ভেবে দুঃখ পেতে হয়। গোলাপের সত্য কথা বলতে বলতে চক্ষুলজ্জা ভেঙে গেছে। আমি তো চক্ষুলজ্জা কিছুতেই ছাড়তে পারি না। “অপ্রিয় বচন সত্য কদাপি না কয়।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৫৫ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -2168,7 +2168,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P057.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- তুমি যে মন্ত্র দাও, সে তো ইচ্ছে করেই দাও।
 মা -- দয়ায় মন্ত্র দি। ছাড়ে না, কাঁদে, দেখে দয়া হয়। কৃপায় মন্ত্র দি। নতুবা আমার কি লাভ? মন্ত্র দিলে তার পাপগ্রহণ করতে হয়। ভাবি, শরীরটা তো যাবেই, তবু এদের হোক।
@@ -2210,7 +2210,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P058.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- ঠাকুর ভাবাবস্থায় বলেছিলেন, ‘এর পর ঘরে ঘরে আমার পূজা হবে। আমার যে কত লোক তার কুলকিনারা নেই।’ নিবেদিতা বলেছিল, ‘মা, আমরাও বাঙালী। কর্মবিপাকে ওদেশে জন্মেছি। তা দেখবে আমরাও এখন বাঙালী হয়ে যাব যে ঠিক ঠিক।’ ওদের (নিবেদিতা প্রভৃতির) এই শেষ জন্ম।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৫৭ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -2246,7 +2246,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P059.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- নিবেদিতা বলেছিল, ‘মা আমরাও বাঙালী, কর্মের ফেরে খ্রীষ্টান হয়ে জন্মেছি।’ ওদেরও এই শেষ জন্ম।
 মা এইরূপ মাঝে মাঝে অনেকের শেষ জন্ম বলিতেন। তাই মনে করিয়া আজ তাঁহাকে গিয়া জিজ্ঞাসা করিতাম, “মা, ‘শেষ জন্ম’ কথাটার মানে কি? ঠাকুর অনেকের শেষ জন্ম বলেছেন, তুমিও বলছ।”
@@ -2288,7 +2288,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P060.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- কেন? আমার বাপ মা বড় ভাল ছিলেন। বাবা বড় রামভক্ত ছিলেন। নৈষ্ঠিক, অন্য বর্ণের গ্রহণ করতেন না। মায়ের কত দয়া ছিল। লোকদের কত খাওয়াতেন, যত্ন করতেন, কত সরল। বাবা তামাক খেতে খুব ভালবাসতেন। তা এমন সরল অমায়িক ছিলেন যে, যে কেউ বাড়ির কাছ দিয়ে যেত, ডেকে বসাতেন, আর বলতেন, ‘বস ভাই, তামাক খাও।’ এই বলে নিজেই ছিলিম ছিলিম তামাক সেজে খাওয়াতেন। বাপ মায়ের তপস্যা না থাকলে কি (ভগবান) জন্ম নেয়?<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৬৫ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -2324,7 +2324,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P061.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা, এই যে কেউ কেউ বলেন, মঠের সেবাশ্রম, হাসপাতাল, বইবেচা, হিসাব-নিকাশ প্রভৃতি সাধুরা যে করছে, এ ভাল নয়। ঠাকুর কি এসব কিছু করেছিলেন। নূতন নূতন যারা ব্যাকুলতা নিয়ে মঠে ঢুকছে, তাদের ঘাড়ে এই সব কর্ম চাপিয়ে দিচ্ছে। কর্ম করতে হয়তো পূজা, জপ, ধ্যান, কীর্তন-এই সব করবে। অন্য সব কর্ম বাসনা জড়িয়ে ঈশ্বর থেকে বিমুখ করে।
 মা -- তোমরা ওদের কথা শুনো না। কাজ করবে না তো দিনরাত কি নিয়ে থাকবে? চব্বিশ ঘণ্টা কি ধ্যানজপ করা যায়? ঠাকুরের কথা বলছে-তাঁর আলাদা। আর তাঁর মাছের ঝোল, ঘিয়ের বাটি মথুর যোগাত। এখানে একটি কাজ নিয়ে আছ ব'লে খাওয়াটি জুটছে। নইলে দুয়ারে দুয়ারে কোথায় একমুঠোর জন্যে ঘুরে ঘুরে বেড়াবে। শরীর অসুখ হয়ে পড়বে। আর কেই বা এখন সাধুদের এত ভিক্ষা দিচ্ছে? তোমরা ওসব কথা কিছু শুনো না। ঠাকুর যেমন চালাচ্ছেন তেমনি চলবে। মঠ এমনিভাবেই চলবে। এতে যারা পারবে না তারা চলে যাবে।<br><br>
@@ -2361,7 +2361,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P062.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- বাসনা থেকেই ভোগ। চৌতলা বাড়িতে বাস করলেও যার বাসনা নেই তার কিছুই না। আর গাছতলায় বাস করেও বাসনা থাকলে ঐ থেকেই সব ভোগ এসে পড়ে। ঠাকুর বলতেন, ‘মহামায়ার এমনি খেলা যে, যার তিন কুলে কেউ নেই তাকে দিয়েও একটা বেরাল পুষিয়ে সংসার করাবে।’
 মা -- তাই তো; বাসনা থেকেই সব। বাসনা না থাকলে কিসের কি? এই যে আমি এসব নিয়ে আছি, কই, আমার তো কোন বাসনা হয় না-কিছুই না।
@@ -2402,7 +2402,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P063.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 জনৈক ত্যাগী ভক্ত একবার মাকে জিজ্ঞাসা করিয়াছিল, “মা, সাধন-ভজন তো করা যাচ্ছে, চেষ্টাও কম করছি না, কিন্তু মনের আবর্জনা যেন কমছে না।” মা বলিলেন, “নাটাইতে সুতো যেভাবে গুটিয়েছে-লাল সুতো, কাল, সাদা-খোলবার সময় তেমনি করে করে খুলবে তো?”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৬৫ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -2438,7 +2438,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P064.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- মা, কর্মের ফল কি খণ্ডন হয়? শাস্ত্রে বলে জ্ঞান হলে খণ্ডণ হয়। তাও প্রারব্ধ ভোগ করতে হয়।
 মা -- কর্ম হতেই সুখ দুঃখ সব। তাঁকেও কর্মফল ভোগ করতে হয়েছিল। ঠাকুরের বড় ভাই বিকারের সময় জল খাচ্ছিলেন। একটুখানি খেতেই ঠাকুর হাত থেকে গ্লাসটি টেনে নিলেন। তিনি তাতে অসন্তুষ্ট হয়ে বললেন, ‘তুই আমাকে জল খেতে দিলিনি, তুইও এমনি কষ্ট পাবি, তোরও গলায় এমনি যাতনা হবে।’ ঠাকুর বললেন, ‘দাদা, আমি তো তোমার মন্দ করিনি। তোমার অসুখ, জল খেলে অনিষ্ট হবে, তাই দিইনি। তবে কেন তুমি আমায় এমন শাপ দিলে?’ তিনি কেঁদে বললেন, ‘কি জানি, ভাই, আমার মুখ থেকে ওকথা বেরিয়ে পড়ল। এ তো অন্যথা হবে না।’ ঠাকুরের অসুখের সময় আমাকে বললেন, ‘এই তাঁর শাপে গলার ঘা। তা তোমাদের আর কারু কিছু হবে না; যা ভোগ আমারই হ'ল।’ আমি বললুম, ‘এমন হ'লে মানুষ কি করে থাকবে, যখন তোমারই এরূপ হ'ল?’ তিনি বললেন, ‘তার যে সিদ্ধ-বাক্য ছিল, ভাল লোক। এমনি যে-সে বললে কি হয়?’
@@ -2476,7 +2476,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P065.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- তাহলে কর্মের প্রাধান্যেই তো জগৎ চলছে। তবে আর ভগবান মানা কেন? বৌদ্ধেরাও কর্ম মানে, ঈশ্বর মানে না।
 মা -- তবে কি কালী, কৃষ্ণ, দুর্গা, এসব নেই বলতে চাও?
@@ -2517,7 +2517,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P066.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “আমিও তো দেশে কত শুকনো বিষ্ঠা মাড়িয়ে চলেছি। দুবার ‘গোবিন্দ গোবিন্দ’ বললুম, বস্, শুদ্ধ হয়ে গেল। মনেতেই সব, মনেই শুদ্ধ, মনেই অশুদ্ধ। মানুষ নিজের মনটি আগে দোষী ক'রে নিয়ে তবে পরের দোষ দেখে। পরের দোষ দেখলে তাদের কি ক্ষতি?-নিজেরই ক্ষতি। আমার এইটি ছেলেবেলা থেকেই স্বভাব যে আমি কারও দোষ দেখতে পারতুম না। আমার জন্য যে এতটুকু করে আমি তাকে তাই দিয়ে মনে রাখতে চেষ্টা করি। তা আবার মানুষের দোষ দেখা? মানুষের কি দোষ দেখতে আছে! ওটি শিখিনি। ক্ষমারূপ তপস্যা।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৭১ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -2553,7 +2553,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P067.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- স্বামীজী বলতেন, ‘ঘরে চোর ঢুকে কিছু নিয়ে গেল, তোমার মনে উঠবে-চোর, চোর। কিন্তু শিশুর মনে চোর-বুদ্ধি নেই; সে চোর ব'লে কিছুই দেখলে না।’
 মা -- তা তো বটেই। যার শুদ্ধ মন, সে সব শুদ্ধ দেখে। এই গোলাপের (তখন গোলাপ মা কিজন্য আসিয়াছেন) মনটি শুদ্ধ। বৃন্দাবনে মাধবজীর মন্দিরে কাদের ছেলেমেয়ে বাহ্যে করে গেছে। সব্বাই বলছে, ‘বিষ্ঠা, বিষ্ঠা’, কিন্তু কেউ ফেলবার চেষ্টা করছে না। গোলাপ তাই দেখে অমনি নিজের ধুতি-নূতন মলমলের ধুতি-ছিঁড়ে পুঁছে ফেলে দিলে। স্ত্রীলোকগুলো দেখে বলছে, ‘এ যখন ফেলেছে, তখন এরই ছেলে বাহ্যে করেছে!’ আমি মনে মনে বলছি, ‘দেখ মাধব, কি বলছে।’ কেউ বা বলছে, এরা সাধুলোক (যোগীন স্বামী প্রভৃতি ছিলেন), এঁদের আবার ছেলেপিলে কি? এঁরা ফেলছেন সকলের দর্শনের অসুবিধা হচ্ছে, মন্দিরে বিষ্ঠা রয়েছে, এ জন্য।’
@@ -2592,7 +2592,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P068.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 বৈকালে ন-দিদির (গিরিশবাবুর ভগিনীর) মৃত্যুপ্রসঙ্গ হইতেছিল। বোধনের দিন রাত্রে হঠাৎ তাঁর মৃত্যু হইয়াছে।
 মা বলিলেন, “আর মানুষ, এই আছে, এই নাই। কিছুই সঙ্গে যাবে না। একমাত্র ধর্মাধর্মই সঙ্গে যাবে। পাপপুণ্য মৃত্যুর পরও সঙ্গে যায়।”<br><br>
@@ -2629,7 +2629,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P069.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “এ কলিতে শুধু সত্যের আঁট থাকলেই ভগবানলাভ হয়। ঠাকুর বলতেন, ‘যে সত্যকথাটি ধরে আছে সে ভগবানের কোলে শুয়ে আছে।’ দক্ষিণেশ্বরে ঠাকুরের অসুখের সময় তাঁকে রোজ যে দুধ দিতুম তা জ্বাল দিয়ে বেশ ঘন করে দিতুম আর এক সের দুধ হলে বলতুম আধ সের--কম করে বলতুম। ঠাকুর একদিন টের পেয়ে বললেন, ‘সেকি ! সত্য ধরে থাকবে। এই আমার বেশী দুধ খেয়ে পেটের অসুখ হয়েছে।’ যাই মনে করা, অমনি সেদিন পেটের অসুখ হল।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৮৮ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -2665,7 +2665,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P070.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- ঠাকুর সব সাধনা করেছেন। বলতেন, ‘আমি ছাঁচ করে গেলুম, তোরা সব ছাঁচে ঢেলে তুলে না।’
 আমি – ‘ছাঁচে ঢালা’ মানে কি?
@@ -2706,7 +2706,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P071.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- কাশীপুর বাগান তাঁর অন্তলীলার স্থান। কত তপস্যা, ধ্যান, সমাধি! তাঁর মহাসমাধির স্থান-সিদ্ধস্থান। ওখানে ধ্যান করলে সিদ্ধ হয়।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৯১ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -2742,7 +2742,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P072.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- এই যে মন্ত্র নেয়, কি পায়? এমনি তো বাহ্য দৃষ্টিতে দেখি, লোকটি যেমন ছিল তেমনি আছে।
 মা -- মন্ত্রের মধ্য দিয়ে শক্তি পায়। গুরুর শক্তি শিষ্যে যায়, শিষ্যের গুরুতে আসে। তাই তো মন্ত্র দিলে পাপ নিয়ে শরীরে এর ব্যাধি হয়। গুরু হওয়া বড় কঠিন--শিষ্যের পাপ নিতে হয়। শিষ্য পাপ করলে গুরুরও লাগে। ভাল শিষ্য হলে গুরুরও উপকার হয়। কারও বা হঠাৎ উন্নতি হয়, কারও বা ক্রমে হয়। তা যার যেমন সংস্কার।
@@ -2781,7 +2781,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P073.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 ললিতবাবু -- মা, খাওয়া-দাওয়ার কিরকম নিয়ম পালন করা উচিৎ?
 মা -- আদ্যশাস্ত্রের অন্ন খেতে নেই, ভক্তির বড় হানি হয়। বরং অন্য শ্রাদ্ধের অন্ন খাবে, তবু আদ্যশ্রাদ্ধের নয়, ঠাকুর নিষেধ করতেন। আর যা কিছু খাবে, ভগবানকে দিয়ে খাবে, অপ্রসাদী অন্ন খেতে নেই। যেমন অন্ন খাবে তেমন রক্ত হবে। শুদ্ধ অন্ন খেলে শুদ্ধ রক্ত হয়, শুদ্ধ মন হয়, বল হয়। শুদ্ধ মনে শুদ্ধা ভক্তি হয়, প্রেম হয়।
@@ -2820,7 +2820,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P074.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “কামিনীকাঞ্চন-ত্যাগ। তিনি বলতেন, ‘আমি ইচ্ছা করলে কামারপুকুরটাকে সোনার ক'রে দিতে পারি, সেজবাবুকে বলে। কিন্তু ওতে কি হবে? ওগুলো তো অনিত্য।’ কারও কারও তিনি বলতেন শেষ জন্ম। বলতেন, ‘আরে, এর কিছুতেই আকাঙ্ক্ষা নেই রে! এর শেষ জন্ম।’ ”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ২৯৬ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -2856,7 +2856,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P075.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 পাগলী মামি চিৎকার করিয়া বলিতেছেন, “তোমার আর বেরালকে অত দয়া দেখাতে হবে না। মানুষকেই বড় দয়া করছেন! মানুষকে দয়া কর না।”
 মা গম্ভীর হইয়া বলিলেন, “আমার দয়া যার উপর নেই সে নেহাত হতভাগ্য। আমার দয়া যে কার উপর নেই তা বুঝিনা--প্রাণীটা পর্যন্ত।”<br><br>
@@ -2893,7 +2893,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P076.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 রাধুর সেই জ্বর ও বেদনা। মা বলিতেছেন—“এই রাধীর উপর আমার আর একটুও মন নেই। রোগ ঘেঁটে ঘেঁটে বিতৃষ্ণা হয়েছে। জোর ক'রে মন টেনে রাখি। বলি, ‘ঠাকুর রাধীর উপর একটু মন দাও, নইলে ওকে কে দেখবে।’ এমন রোগও আর দেখিনি। জন্মান্তরীন রোগ নিয়ে মরেছিল, প্রায়শ্চিত্ত করেনি। আমার এই দুইটি করাবার ইচ্ছা আছে :-- একটি চণ্ডদেখানো--কেন এমন হচ্ছে, আর এই চন্দ্রায়ণ করা।…
 “মানুষ যে রোগ নিয়ে মরে, যদি প্রায়শ্চিত্ত না ক'রে মরে, তবে পরজন্মেও সেই রোগ হয়। সাধুদের পক্ষে এসব কিছু নয়।”<br><br>
@@ -2930,7 +2930,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P077.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 কাশীপুরে তাঁর অসুখের সময় তিনি বললেন, ‘এই অসুখ, খাজাঞ্চী-টাজাঞ্চী লোকে কেউ কিছু বলবে--প্রায়শ্চিত্ত করলে না। এ রামলাল, তুই দশটা টাকা নিয়ে দক্ষিণেশ্বরে যা, মা কালীকে নিবেদন ক'রে বামুন-টামুনদের বিলিয়ে দে।’
 “সাধুর তো কর্ম নেই, তাই টাকা ইষ্টকে নিবেদন ক'রে দিয়ে বিতরণ করতে বললেন। মুনি-ঋষিরা বনে থাকতেন। তারা কি চন্দ্রায়ন করতে পারতেন? তাঁরা ফলমূল নিজ ইষ্টকে নিবেদন ক'রে সব্বাইকে বিতরণ করতেন। তাঁদের ওতেই হয়।”
@@ -2970,7 +2970,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P078.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 সুরেনবাবু -- মা, ধ্যান-ট্যান তো কিছুই হয় না।
 মা -- তা নাই বা হ'ল। ঠাকুরের ছবি দেখলেই হবে। ঠাকুরের তখন অসুখ, কাশীপুরে। ছেলেরা পালা ক'রে থাকত। তখন গোপাল হয়েছে। ঠাকুরকে ফেলে সে গিয়ে ধ্যান করতে বসেছে। অনেকক্ষণ ধ্যান করছে। গিরিশবাবু এসে শুনে বললেন, ‘চোখ বুজে যাঁর ধ্যান করছে তিনি এখানে রোগশয্যায় বসে কষ্ট পাচ্ছেন, আর ও কি না ধ্যান করতে গেল!’ গোপালকে ডেকে পাঠালেন। ঠাকুর তাকে পা টিপে দিতে বললেন। বললেন, ‘পায়ে ব্যাথা হয়েছে ব'লে টিপতে বলছি কি? তা নয়, তোর অনেক করা ছিল (জন্মান্তরে), তাই।’
@@ -3008,7 +3008,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P079.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 দুর্গাবাবু -- মা আহারাদির সম্বন্ধে কি রকম নিয়ম পালন ক'রে চলতে হবে বুঝতে পারি নে।
 মা -- আহারাদি সম্বন্ধে ঠাকুর একটা নিয়ম বেশী মানতেন, প্রথম শ্রাদ্ধের অন্নটা খেতে সব ভক্তদের নিষেধ করতেন। বলতেন, ‘ওতে ভক্তির হানি হয়।’ তা ছাড়া তাঁকে মনে ক'রে খাবে দাবে।<br><br>
@@ -3045,7 +3045,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P080.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 কথাপ্রসঙ্গে মা বলিলেন, “ঠাকুরের আবির্ভাব থেকে সত্য যুগ আরম্ভ হয়েছে। বিশেষ বিশেষ লোক তাঁর সঙ্গে এসেছেন। এই নরেন সপ্ত ঋষির মধ্যে প্রধান ঋষি। তিনি তো শত ঋষির মধ্যে বলতে পারতেন; তা না ব'লে সেই বড় সাতজনের মধ্যে একজন বললেন। অর্জুন যোগীন হয়ে এলেন। তেমন প্রধান প্রধান কটি থাকে? অনেক থাকে কি? টোকো আম অনেক পাওয়া যায়, ফজলি আম কি বেশী পাওয়া যায়? সাধারণ লোক কত জন্মাচ্ছে, মরছে। এই সব সর্ব-প্রধান যাঁরা, তাঁরাই ভগবানের কার্যের জন্য সঙ্গে সঙ্গে আসেন।”
 আমি -- স্বামীজীও বলেছেন, ঠাকুরের আবির্ভাব থেকে সত্যযুগ আরম্ভ। 
@@ -3083,7 +3083,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P081.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- হাঁ, ও কি? দৃষ্টান্ত দেওয়া ভাল নয়। দৃষ্টান্ত দিলে ভুগতে হয়। কে কবে মরেছে। কেবা বাপ, কেবা মা? ঈশ্বরই সব।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩১০ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -3119,7 +3119,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P082.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- বুড়ো হতে চললুম, কাকে প্রস্রাব করে, কখনও শুনিনি! বহু পাপ, মহাপাপ না হলে কি মন অশুদ্ধ হয়? কৃষ্ণ বোসের বোনের অমনি শুচিবাই ছিল। ‘টিকিটা ডুবল কি?’--গঙ্গায় নাইতে গিয়ে ডুব দিচ্ছে, আর লোকদের জিজ্ঞাসা করছে। শুচিবাই, মন আর কিছুতেই শুদ্ধ হচ্ছে না। অশুদ্ধ মন অনায়াসে যায় না। আর শুচিবাই যত বাড়াবে তত বাড়বে। সবই যত বাড়াবে তত বাড়বে। 
 আমি -- মহাপুরুষকে দেখেছি ভজা প্রভৃতি কুকুরগুলোকে ঘাঁটে তারপর হয়তো ঠাকুরপূজা করতে গেলেন। যাবার সময়ে কেউ হাতে জল (তখন গঙ্গাজলই সব কাজে ব্যবহার হ'ত) ঢেলে দিলে, আচমনের মতো একটু হাত ধুলেন মাত্র।
@@ -3157,7 +3157,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P083.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- যারা ভগবানের উপর নির্ভর ক'রে পড়ে থাকে তাদের (বিনা সাধনে) কি ক'রে হয়?
 মা -- ভগবানের উপর নির্ভর ক'রে, বিশ্বাস ক'রে যে পড়ে থাকে, এইটিই তাদের সাধন। আহা, নরেন বলেছিল, ‘লাখ জন্ম হলেই বা, তাতে ভয় কি?’ তাইতো জ্ঞানীর জন্ম নিতে ভয় কি? তাদের তো আর পাপ হয় না। অজ্ঞানীরই যত ভয়। তারাই বদ্ধ হয়, পাপে লিপ্ত হয়। কত লাখ লাখ জন্ম ভুগে ভুগে, যাতনা পেয়ে পেয়ে শেষে ভগবানকে চায়।<br><br>
@@ -3194,7 +3194,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P084.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 (উত্তেজিতকণ্ঠে) “যদি শুদ্ধ মন হয়, কেন ধ্যানধারণা হবে না? কেন দর্শন হবে না? জপ করতে বসলুম তো আপনা হতেই ভিতর থেকে গর গর করে নাম উঠতে থাকবে, চেষ্টা করে নয়।
 “জপধ্যান সব যথাসময়ে আলস্য ত্যাগ করে করতে হয়। দক্ষিণেশ্বরে একদিন শরীরটা খারাপ লাগায় একটু দেরিতে উঠেছি। তখন রাত তিনটায় উঠতুম। পরদিন আরও দেরিতে উঠলুম। ক্রমে দেখি আর সকালে উঠতেই ইচ্ছা যাচ্ছে না। তখন মনে হ'ল, ওরে এইতো আলস্যে পেয়েছে। তারপর জোর ক'রে উঠতে লাগলুম, তখন সব পূর্বের মতো হতে লাগল। এসব বিষয়ে রোক ক'রে অভ্যাস রাখতে হয়।
@@ -3232,7 +3232,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P085.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা তাঁহার তক্তাপোশের উপর বসিয়া আছেন, আমি ভক্তদের পত্র পড়িয়া শুনাইতেছিলাম। কৃষ্ণলাল মহারাজও ছিলেন। পত্র লিখিয়াছে, মন স্থির হয় না, ইত্যাদি। মা এই সকল কথায় বেশ একটু উত্তেজিত হইয়া বলিলেন, “রোজ পনর-বিশ হাজার ক'রে জপ করতে পারে, তাহলে হয়। আমি দেখেছি, কৃষ্ণলাল, বাস্তবিক হয়। আগে করুক; না হয়, তখন বলবে। তবে একটু মন দিয়ে করতে হয়। তা তো নয়, কেউ করবে না, কেবল বলে--কেন হয় না?”
 একটি ভক্ত প্রণাম করিতে গিয়া ধ্যানজপের সম্বন্ধে জিজ্ঞাসা করিলেন। মা বলিলেন--
@@ -3271,7 +3271,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P086.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “মানুষ তো ভগবানকে ভুলেই আছে। তাই যখন যখন দরকার, তিনি নিজে এক একবার এসে সাধন ক'রে পথ দেখিয়ে দেন। এবার দেখালেন ত্যাগ। তিনি শতবর্ষ ছেলেপুলে নিয়ে থাকবেন বলছেন।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩১৭ (স্বামী অরূপানন্দের স্মৃতিচারণ)
@@ -3307,7 +3307,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P087.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 প্রসঙ্গক্রমে দু-একটি ঘটনা মনে পড়িতেছে। একবার পূজার সময় মামাদের ছেলেমেয়েদের জন্য কিছু কাপড় কিনিবার ভার মা আমার উপর দেন। আমি সব দেশী কাপড় লইয়া যাই। মেয়েরা অধিকাংশই অপছন্দ করিলেন এবং তাঁহাদের নিজেদের পছন্দমত ফরমাস করিতে লাগিলেন। আমি উত্তেজিত হইয়া বলিলাম, “ওসব তো বিলিতী হবে, ও আবার কি আনব?” শ্রীশ্রীমা একপাশে বসিয়াছিলেন। তিনি একটু হাসিতে হাসিতে বলিলেন, “বাবা, তারাও (বিলাতের লোক) তো আমার ছেলে। আমার সকলকে নিয়ে ঘর করতে হয়। আমার কি একরোখা হলে চলে? ওরা যেমন যেমন বলছে তাই এনে দাও।” পরে দেখিতাম কাহারও জন্য কোন বিলাতী দ্রব্য আনাইতে হইলে মা আমাকে না বলিয়া অপরকে দিয়া আনাইতেন। কাহারও ভাবে আঘাত দেওয়া তাঁহার স্বভাব বিরুদ্ধ ছিল।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩১৯ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3343,7 +3343,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P088.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 কেদারবাবু জিজ্ঞাসা করিলেন, “রামেশ্বর প্রভৃতি কেমন দেখলেন?" মা বলিলেন, “বাবা, যেমনটি রেখে এসেছিলাম ঠিক তেমনটিই আছেন।” গোলাপ-মা তখন ঐ দিক দিয়া বারান্দায় যাইতেছিলেন। তিনি মায়ের ঐ কথা শুনিয়া বলিলেন, “কি বললে, মা?” মা একটু চমকিত হইয়া বলিলেন, “কই, কি বলব? বলছি এই তোমাদের কাছে যেমনটি শুনেছিলাম ঠিক  তেমনটিই দেখে বড় আনন্দ হয়েছিল।” তখন গোলাপ-মা বলিলেন, “না, মা, আমি সব শুনেছি, এখন আর কথা ফেরালে কি হবে? কেমন গো, কেদার?” এই কথা বলিতে বলিতে তিনি সেখান হইতে চলিয়া গেলেন ও যোগেন-মা প্রভৃতিকে সব বলিতে লাগিলেন।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩২১ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3379,7 +3379,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P089.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 কেদারবাবু গল্প করিতে করিতে মাকে বলিলেন, “মা, আপনার সব ছেলেই বিদ্বান, আমরা এই কয়টি আপনার একেবারে মূর্খ সন্তান। শরৎ মহারাজ ঠাকুরের বই লিখে তাঁর কথা ও ভাব প্রচার করছেন। অন্যান্য ছেলেরা সব বক্তৃতা দিচ্ছেন-কত কাজ হচ্ছে।” মা শুনিয়া বলিতেছেন, “সে কি গো? ঠাকুর যে লেখাপড়া কিছুই জানতেন না। ভগবানে মতি হওয়াই আসল। তোমার দ্বারা এদেশে অনেক কাজ হবে। ঠাকুর এবার এসেছেন ধনী-নির্ধন, পণ্ডিত-মূর্খ সকলকে উদ্ধার করতে। মলয়ের হাওয়া খুব বইছে। যে একটু পাল তুলে দেবে, শরণাগত হবে, সেই ধন্য হয়ে যাবে। এবার বাঁশ ও ঘাস ছাড়া যার ভিতরে একটু সার আছে সেই চন্দন হবে। তোমাদের ভাবনা কি? তোমরা আমার আপনার লোক। তবে কি জান, বিদ্বান সাধু যেন হাতীর দাঁত সোনা দিয়ে বাঁধান।” এই কথা বলিয়া পূজা করিতে উঠিলেন।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩২৪ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3415,7 +3415,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P090.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “একদিন সন্ধ্যায় মা কথাপ্রসঙ্গে বলিতেছেন, “আমি আর কারও দোষ দেখতে শুনতে পারিনে, বাবা, প্রারব্ধ কর্ম যার যা আছে। যেখানে ফালটি যেত সেখানে ছুঁচটি তো যাবে? আমার কাছে--র দোষের কথা বললে। তখন এরা সব কোথায় ছিল? সে আমার কত সেবা করেছে। আমি তো তখন ভাইদের ঘরে ধান সিদ্ধ করি। বউরা সব ছোট। সে শীত বর্ষা গ্রাহ্য না ক'রে সকাল থেকে গায়ে কালি মেখে আমার সঙ্গে বড় বড় ধানের হাঁড়ি নামাত। এখন তো অনেকে ভক্ত হয়ে আসে। তখন আমার কে ছিল! আমরা কি সেগুলো সব ভুলে যাব? তা লোকেরই বা দোষ কি? আমারও আগে লোকের কত দোষ চোখে ঠেকত। তারপর ঠাকুরের কাছে কেঁদে কেঁদে, ‘ঠাকুর, আর দোষ দেখতে পারি নে’ ব'লে কত প্রার্থনা ক'রে তবে দোষ-দেখাটা গেছে। মানুষের হাজার উপকার ক'রে একটু দোষ কর, মুখটি তখনই বেঁকে যাবে। লোক কেবল দোষটি দেখে। গুণটি দেখা চাই।"<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৩৫ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3451,7 +3451,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P091.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একদিন ভক্তদের অনেকগুলি পত্র আসিয়াছে। সন্ধ্যার সময় মাকে পড়িয়া শুনাইলাম। পত্র শুনিয়া মা বলিতেছেন, “কতরকম ছেলেরা কত কি ইচ্ছা লিখেছে, দেখলে? কেউ বলছে, ‘এর করে প্রার্থনা, জপধ্যান করছি, কিছুই হচ্ছে না’; কেউ বা সংসারে নানা অশান্তি, অনটন, রোগশোকের কথা লিখছে। আর এসব শুনতে পারি নে। ঠাকুরকে বলি, ‘ঠাকুর, এদের ইহকাল পরকাল তুমিই রক্ষা করো।’ আমি মা হয়ে আর কি বলব? কজন তাঁকে ঠিক ঠিক চায়? সে ব্যাকুলতা কোথায়? এত তো ভক্তি, আগ্রহ--এদিকে সামান্য একটু ভোগ্যবস্তু পেলেই সন্তুষ্ট! বলে, ‘আহা, তাঁর কি দয়া!’ বলে, ‘রাধু কেমন আছে?’ আমার মন ভেজাবার জন্য রাধুর খোঁজ আগে। আমি চোখ বুঁজলে রাধুর দিকে কেউ ফিরেও চাইবে না।” নবাসনের বউদিদি বলিতেছেন, “মা, আপনার তো সব ছেলে সমান; যে বিয়ে করার মতামত চেয়েছে তাকে আপনি অনুমতি দিচ্ছেন, আর যে সংসারত্যাগ করতে চায় তাকে সেইমত ত্যাগের প্রশংসা ক'রে উপদেশ দিচ্ছেন। আপনার তো উচিৎ যেটি ভাল সেই পথেই সকলকে নিয়ে যাওয়া।” মা বলিতেছেন, “যার ভোগবাসনা প্রবল, আমি নিষেধ করলেই কি সে শুনবে? আর যে বহু সুকৃতিবলে এই সব মায়ার খেলা বুঝতে পেরে তাঁকেই একমাত্র সারা ভেবেছে, তাকে একটু সাহায্য করব না! সংসারে দুঃখের কি অন্ত আছে?”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৩৬ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3487,7 +3487,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P092.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 এই কথা বলিয়া মা বলিতেছেন, “এ তো হলো। আচ্ছা, তোরা বল্ দেখি কোন্ জিনিসটা ভগবানের কাছে প্রার্থনা করতে হয়?” নলিনীদিদি বলিতেছেন, “কেন, পিসিমা, জ্ঞান, ভক্তি, মানুষ যাতে সংসারে সুখে থাকে, এই সব প্রার্থনা করতে হয়।” মা বলিতেছেন, “এক কথায় বলতে গেলে, নির্বাসনা প্রার্থনা করতে হয়। কেন না বাসনাই সকল দুঃখের মূল, বার বার জন্ম-মৃত্যুর কারণ, আর মুক্তিপথের অন্তরায়।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৩৭ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3523,7 +3523,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P093.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 জয়রামবাটীতে দুর্গাপূজার সময় অষ্টমীর দিন একটি ভক্ত কতকগুলো পদ্মফুল একটি ঝুড়ীতে লইয়া আসিতেছেন। দূর হইতে আমাকে দেখিয়া ফুলসমেত হাত তুলিয়া আমাকে নমস্কার করিলেন। মা দূর হইতে উহা দেখিয়াছিলেন। পরে আমাকে বলিলেন, “ঐ ফুল দিয়ে আর ঠাকুরের পূজা হবে না; ওগুলি ফেলে দিও।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৩৮ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3559,7 +3559,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P094.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 কেদার মহারাজ একদিন সকালে জয়রামবাটীতে মায়ের নিকট বসিয়া বলিতেছেন, “মা, আমাদের দাতব্য চিকিৎসালয়ে যাদের অবস্থা ভাল তারাও সব ওষুধ নিতে আসে। আমরা তো গরীবদের জন্যেই করেছি। ঐ সমস্ত লোককে ওষুধ দেওয়া কি উচিৎ?” মা একটু থামিয়া বলিলেন, “বাবা, এদেশের সকলেই গরীব। তবে ওরা এইসব জেনেশুনেও যদি প্রার্থী হয়ে এসে দাঁড়ায়, সামর্থ্য থাকলে দেবে বইকি। যে প্রার্থী সেই গরীব।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৩৯ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3595,7 +3595,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P095.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 কেদার মহারাজ জিজ্ঞাসা করিলেন, “মা, এবার কি ঠাকুর একটা নতুন জিনিস দিয়ে যাবার জন্যই এসেছিলেন যে সর্বধর্মসমন্বয় ক'রে গেলেন?” মা বলিলেন, “দেখ, বাবা, তিনি যে সমন্বয়-ভাব প্রচার করবার মতলবে সব ধর্মমত সাধন করেছিলেন তা কিন্তু আমার মনে হয়নি। তিনি সর্বদা ভগবদ্‌ভাবেই বিভোর থাকতেন। খ্রীস্টানরা, মুসলমানরা, বৈষ্ণবরা যে যে ভাবে তাঁকে ভজনা ক'রে বস্তুলাভ করে, তিনি সেই সেইভাবে সাধনা ক'রে নানা লীলা আস্বাদ করতেন ও দিনরাত কোথা দিয়ে কেটে যেত, কোনও হুঁশ থাকত না। তবে কি জান, বাবা, এই যুগে তাঁর ত্যাগই হল বিশেষত্ব। ও রকম স্বাভাবিক ত্যাগ কি আর কখনও কেউ দেখেছে? সর্বসমন্বয়-ভাবটি যা বললে, ওটিও ঠিক। অন্যান্য বারে একটা ভাবকেই বড় করায় অন্য সব ভাব চাপা পড়েছিল।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৩৯ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3631,7 +3631,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P096.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 কিছু পরে আমি বলিলাম, “আচ্ছা, আপনাদের কি সব সময়ে নিজের স্বরূপ মনে থাকে না?” মা বলিতেছেন, “তা কি সব সময়ে থাকে? তাহলে কি এইসব কাজকর্ম করা চলে? তবে কাজকর্মের ভেতর যখন ইচ্ছা হয়, সামান্য চিন্তাতে দপ্ করে উদ্দীপনা হয়ে মহামায়ার খেলা সব বুঝতে পারা যায়।” একজন বলিলেন, “কই মা, আমরা তো এত চেষ্টাতেও কিছুই বুঝতে পারছি  না।” মা বলিতেছেন, “হবে গো হবে, তোমাদের ভাবনা কি? কালে সব হবে।” সেদিন অনেক রাত্রি পর্যন্ত কথাবার্তা হইতেছিল। আমি বলিলাম, “মা কেদার মহারাজ বলেন, এই সকল কাজে কর্মে খুব খাট, তাহলেই যা হবার আপনিই হবে।” মা বলিলেন, “কাজকর্ম করবে বইকি, কাজে  মন ভাল থাকে। তবে জপধ্যান, প্রার্থনাও বিশেষ দরকার। অন্ততঃ সকলা-সন্ধ্যায় একবার বসতেই হয়। ওটি হ'ল যেন নৌকার হাল। সন্ধ্যাকালে একটু বসলে সমস্ত দিন ভালমন্দ কি করলাম না করলাম তার বিচার আসে। তারপর গতকালের মনের অবস্থার সঙ্গে আজকের অবস্থার তুলনা করতে হয়। পরে জপ করতে করতে ইষ্ট-মূর্তির ধ্যান করতে হয়। ধ্যানের প্রথমে মুখটি আসে বটে, কিন্তু পা থেকে সমস্ত অঙ্গটি সাক্ষাৎ ধ্যান করতে হয়। কাজের সঙ্গে সকাল-সন্ধ্যা জপ-ধ্যান না করলে কি করছ না করছ বুঝবে কি ক'রে?”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৪০ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3667,7 +3667,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P097.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 “মনটাকে বসিয়ে আলগা না দিয়ে কাজ করা ঢের ভাল। মন আলগা পেলেই যত গোল বাধায়। নরেন আমার এইসব দেখেই তো নিষ্কাম কর্মের পত্তন করলে।” মা ন--কে লক্ষ্য করিয়া আবার বলিলেন, “দেখনা, বসে থেকে থেকে কি অশুদ্ধ মনই না হয়ে গেছে! কেবল শুচিবাই বাড়ছে। আর বলে, অশান্তি। অত অশান্তি কেন? এত দেখেশুনেও চৈতন্য হল না?”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৪১ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3703,7 +3703,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P098.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 পরদিন বেলা দশটা-এগারটার সময় মা সদর দরজার রোয়াকে বসিয়া আছেন। আমরা বৈঠকখানায় আছি। কালী মামা ও বরদা মামার মধ্যে রাস্তা লইয়া বচসা হইতে হইতে ক্রমে হাতাহাতি হইবার উপক্রম হইয়াছে। মা আর স্থির থাকিতে না পারিয়া উঁহাদের নিকট গেলেন। কখনও একজনকে বলিতেছেন, “তোর অন্যায়,” কখনও অপরকে ধরিয়া টানিতেছেন। খুব মাতিয়া গিয়াছেন। ঐ সময় আমরাও গিয়া পড়ায় ঝগড়া একটু কমিল, এবং বকিতে বকিতে যে যার বাড়ি চলিয়া গেলেন। মাও সক্রোধে বাড়ির মধ্যে আসিয়া বসিলেন। বসিয়াই হাসিতেছেন ও বলিতেছেন, “মহামায়ার কি মায়া গো! অনন্ত পৃথিবীটা পড়ে আছে, এও পড়ে থাকবে! জীব এইটুকু আর বুঝতে পারে না।” এই পর্যন্ত বলিয়া মা হাসিয়া অস্থির--হাসি আর থামে না।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৪০ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3739,7 +3739,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P099.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 বিকালে মা রাত্রের কুটনো লইয়া বসিয়াছেন। হঠাৎ ছোটমামী তাঁহার কাছে বসিয়া বলিতেছেন, “তুমিই তো রাধুকে আফিম খাইয়ে পঙ্গু ক'রে বশ ক'রে রেখেছ। আমার নাতিকে, আমার মেয়েকে আমার কাছে পর্যন্ত যেতে দাও না।” মা বলিতেছেন, “নিয়ে যা না তোর মেয়েকে, ঐ তো পড়ে আছে। আমি লুকিয়ে রেখেছি নাকি?” এইরূপ দুই-এক কথা হইতেই মামীর পাগলামী চরম সীমায় উঠিয়াছে। মাকে মারিবার জন্য তিনি একখানি জ্বালানি কাঠ আনিতে ছুটিয়াছেন। মা তখন চীৎকার করিয়া বলিতেছেন, “ওগো কে আছ, পাগলী আমায় মেরে ফেললে !” আমি দৌড়িয়া গিয়া দেখি, কাঠখানি প্রায় মায়ের মাথায় ফেলেন আর কি ! তাড়াতাড়ি উহা দূরে ফেলিয়া দিয়া মামীকে সদর দরজা পার করিয়া দিলাম। রাগে কাঁপিতে কাঁপিতে তাহাকে ভর্ৎসনা করিয়া পুনরায় সে বাড়িতে আসিতে নিষেধ করিলাম। মাও তখন উত্তেজিত হইয়া বলিয়া ফেলিলেন, “পাগলী, কি করতে বসেছিলি? ঐ হাত তোর খসে পড়বে।” ইহা বলিয়াই জিব কাটিয়া মা শিহরিয়া উঠিলেন। ঠাকুরের দিকে চাহিয়া জোড়হাতে বলিতেছেন, “ঠাকুর, একি করলাম ! এখন উপায় কি হবে? আমার মুখ দিয়ে কোনদিন তো কারও ওপর অভিসম্পাত-বাক্য বেরোয় নি, শেষটায় তাও হ'ল?” মায়ের অপার করুণার ভাব দেখিয়া আমি স্তম্ভিত হইয়া গেলাম।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৪২ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3775,7 +3775,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P100.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একদিন মা বেলা নয়টা-দশটার সময় বসিয়া তেল মাখিতেছেন। ঐ সময়ে একজন ঝাঁট দিয়া ঝাঁটাটি ছুঁড়িয়া একদিকে ফেলিয়া রাখিলেন। মা তাহা দেখিয়া বলিতেছেন, “ও কি গো, কাজটি হয়ে গেল, আর অমনি ওটি অশ্রদ্ধা ক'রে ছুঁড়ে দিলে? ছুঁড়ে রাখতেও যতক্ষণ, আস্তে ধীর হয়ে রাখতেও ততক্ষণ। ছোট জিনিস ব'লে কি তুচ্ছবোধ করতে আছে? যাকে রাখ সেই রাখে। আবার তো ওটি দরকার হবে? তা ছাড়া, এ সংসারে ওটিও তো একটি অঙ্গ। সেদিক দিয়েও তো ওর একটা সম্মান আছে। যার যা সম্মান, তাকে সেটুকু দিতে হয়। ঝাঁটাটিকেও মান্য ক'রে রাখতে হয়। সামান্য কাজটিও শ্রদ্ধার সঙ্গে করতে হয়।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৪৫ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3811,7 +3811,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P101.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 জয়রামাবাটীতে একদিন একজন ছোট মামীকে একটু রূঢ় কথা বলায় মা বলিতেছেন, “ওকি গো, মানুষের মনে আঘাত দিয়ে কি কথা বলতে আছে? কথা সত্য হলেও অপ্রিয় করে বলতে নেই। শেষে ঐরূপ স্বভাব হয়ে যায়। মানুষের চক্ষুলজ্জা ভেঙে গেলে আর মুখে কিছু আটকায় না। ঠাকুর বলতেন, ‘একজন খোঁড়াকে যদি জিজ্ঞাসা করতে হয়, তুমি খোঁড়া হ'লে কি করে?--তাহলে বলতে হয়, তোমার পা-টি অমন মোড়া হ'ল কি করে?’ ”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৫২ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3847,7 +3847,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P102.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 জয়রামবাটীতে রাত্রি একটা-দুইটার সময় হঠাৎ কোন কার্য উপলক্ষে তাঁহাকে ডাকিয়া দেখিয়াছি, তিনি এক ডাকেই সাড়া দিতেন এবং “আপনি কি ঘুমান নাই?”--জিজ্ঞাসা করিলে বলিতেন, “কি করি, বাবা, ছেলেরা ব্যাকুল হয়ে এসে ধরে, দীক্ষা নিয়ে যায়। কিন্তু কই, কেউ নিয়মিত--নিয়মিত কেন, কেউ বা কিছুই করে না। তা যখন ভার নিয়েছি, তখন তাদের আমাকে দেখতে হবে তো? তাই জপ করি। আর ঠাকুরের কাছে তাদের জন্য প্রার্থনা করি, ‘হে ঠাকুর, ওদের চৈতন্য দাও, মুক্তি দাও। এই সংসারে বড় দুঃখকষ্ট। আর যেন তাদের না আসতে হয়।’ ” বলিতে বলিতে অতি ধীরে ধীরে উঠিয়া বসিতেন। আবার বলিতেন, “এত আগ্রহ ক'রে মন্ত্রটি তো নিয়ে গেল, কিন্তু কিছু করে না কেন? এমন আর কি শক্ত? একটু অভ্যাস করে করতে থাকলেই কেমন আনন্দ আসে।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৫২ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3883,7 +3883,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P103.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একদিন মা বলিতেছেন, “এত জপ করলামই বল, আর এত কাজ করলামই বল, কিছুই কিছু নয়। মহামায়া পথ ছেড়ে না দিলে কার কি সাধ্য! হে জীব, শরণাগত হও, কেবল শরণাগত হও। তবেই তিনি দয়া ক'রে পথ ছেড়ে দেবেন।” এই বলিয়া কামারপুকুরে অবস্থানকালে ঠাকুরের জীবনের একটি ঘটনা বলিলেন, “একবার কামারপুকুরে জ্যৈষ্ঠমাসের দিন বৈকালে খুব বৃষ্টি হয়ে মাঠ সব জলে উপচে গেছে। ঠাকুর ডোমপাড়ার কাছে নীচু সদর রাস্তা দিয়ে এতখানি জল ভেঙে মাঠে শৌচে যাচ্ছেন। সেখানে অনেকে মাগুর মাছ উঠেছে বলে লাঠি দিয়ে মারছে। একটু মাগুর মাছ ঠাকুরের পায়ে পায়ে কেবল ঘুরছে। তাই দেখে তিনি বলছেন, ‘এটিকে মারিসনে রে, এটি আমার পায়ে পায়ে শরণাগত হয়ে কেমন ঘুরছে। কেউ যদি পারিস তো একে পুকুরে ছেড়ে দিয়ে আয়।’ তারপর নিজেই সেটিকে ছেড়ে দিয়ে এসে বাড়িতে বলছেন, ‘আহা, কেউ যদি এই রকম শরণাগত হয় তবেই সে রক্ষা পায়।’ ”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৫২ (স্বামী ঈষাণানন্দের স্মৃতিচারণ)
@@ -3919,7 +3919,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P104.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একদিন কথাপ্রসঙ্গে মা বলেন, “ঘাস আর বাঁশ ছাড়া সকলকেই এখানে আসতে হবে।” ইহার অর্থ আমি এই বুঝিয়াছি যে, যাহাদের কিছুমাত্র সার নাই তাহারাই কেবল এবার বাদ পড়িবে, নতুবা সকলেই শ্রীশ্রীঠাকুরের ভাব গ্রহণ করিবে। স্বামী কেশবানন্দ ও বিদ্যানন্দের নিকটও মা এইরূপ বলিয়াছিলেন।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৫৪ (শ্রীজিতেন্দ্রমোহন চৌধুরীর স্মৃতিচারণ)
@@ -3955,7 +3955,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P105.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- কখন সময় করা কর্তব্য?
 মা -- সন্ধিক্ষণেই তাঁকে ডাকা প্রশস্ত। রাত যাচ্ছে, দিন আসছে, দিন যাচ্ছে, রাত আসছে-এই হ'ল সন্ধি। এই সময় মন পবিত্র থাকে।
@@ -3993,7 +3993,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P106.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একদিন কথাপ্রসঙ্গে আমি বলিয়াছিলাম, “মা, সংসারে থেকে কোন কাজ হয় না।” তদুত্তরে তিনি বলেন, “বাবা, সংসার মহা দঁক (পাঁক), দঁকে পড়লে ওঠা মুস্কিল। ব্রহ্মা-বিষ্ণু খাবি খান, মানুষ কোন ছার! তাঁর নাম করবে। নাম করতে করতে তিনিই একদিন কাটিয়ে দিবেন। তিনি না কাটালে কি উদ্ধার হওয়া যায়, বাবা? তাঁতে খুব বিশ্বাস রাখবে। সংসারে যেমন মা-বাপ ছেলেদের আশ্রয়স্থল, তেমনি ঠাকুরকে জ্ঞান করবে।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৫৫ (শ্রীনলিন বিহারী সরকারের স্মৃতিচারণ)
@@ -4029,7 +4029,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P107.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একদিন আবেগভরে বলিলাম, “মা, এত যে আসা-যাওয়া করছি, আপনার কৃপালাভও করলাম, তবু কেন কিছুই হচ্ছে না? আমার তো মনে হয়, আমি যেমন ছিলাম তেমনি আছি।”
 তদুত্তরে মা বলিলেন, “বাবা, তুমি যদি একটা খাটে ঘুমিয়ে থাক, আর কেউ সেই খাটখানাসমেত তোমাকে অন্যত্র নিয়ে যায়। তাহলে তুমি ঘুম ভাঙতেই কি বুঝতে পারবে যে স্থানান্তর হয়েছ? না, যখন বেশ পরিষ্কারভাবে ঘুমের ঘোর কেটে যাবে, তখন দেখবে যে অন্যত্র এসেছ।*”
@@ -4067,7 +4067,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P108.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একবার বেলুড় মঠের উৎসবদর্শনার্থ বাড়ি হইতে বাহির হইয়া রাস্তায় মেদিনীপুরে একটু প্রয়োজনবশতঃ নামিয়াছিলাম। তাহাতে সেইদিন রাত্রের গাড়ি ধরিতে না পারায় পরদিন যাইতে হয়। সন্ধ্যার সময় কলিকাতা পৌঁছিয়া মায়ের সহিৎ সাক্ষাৎ করি। মা দেখিয়াই বলিলেন, “উৎসব দেখনি তো?” “না, মা, উৎসব দেখা হয় নাই” বলিয়া রাস্তার ঘটনা বলিলাম। তাহা শুনিয়া মা বলিলেন, “যো সো করে আগে উদ্দেশ্যসাধন ক'রে নিতে হয়। এইতো, বাবা, এত সব দেখতে পেলে না। আগের কাজ আগে করতে হয়।” পরে বলিলেন, কালকে এখানে এসে ঠাকুরের প্রসাদ পেও।
 আহারসম্বন্ধে মা বলিতেন, “যখনই যা-কিছু আহার করবে। তা ভগবানকে নিবেদন ক'রে প্রসাদস্বরূপ গ্রহণ করবে। তা হ'লে রক্ত শুদ্ধ হবে, রক্ত শুদ্ধ হ'লে মনও শুদ্ধ হবে।”<br><br>
@@ -4104,7 +4104,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P109.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আর কদিন জিজ্ঞাসা করিলাম, “মা, অন্যান্য অবতারগণ নিজ নিজ শক্তির পরে দেহরক্ষা করিয়াছেন। কিন্তু এবার আপনাকে রাখিয়া ঠাকুর পূর্বে চলিয়া গেলেন কেন?” মা বলিলেন, “বাবা, জান তো ঠাকুরের জগতের প্রত্যেকের উপর মাতৃভাব ছিল? সেই মাতৃভাব জগতে বিকাশের জন্য আমাকে এবার রেখে গেছেন।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৫৯ (ডাঃ উমেশচন্দ্র দত্তের স্মৃতিচারণ)
@@ -4140,7 +4140,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P110.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আর একদিন জয়রামবাটীতে আমি জিজ্ঞাসা করিয়াছিলাম, “কি করে ভগবান লাভ হয়? পূজা, জপ, ধ্যান--এসবে হয়?”
 মা -- কিছুতেই না।
@@ -4181,7 +4181,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P111.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 সিস্টার নিবেদিতা আসিয়া মাকে প্রণাম করিয়া বসিলেন, মা তাঁহার কুশল জিজ্ঞাসা করিয়া একখানি ছোট পশমের তৈয়ারী পাখা তাঁহাকে দিয়া বলিলেন, “আমি এখানি তোমার জন্য করেছি।” সিস্টার উহা পাইয়া আনন্দে একবার মাথায় রাখেন, একবার বুকে ঠেকান, আর বলেন, “কি সুন্দর, কি চমৎকার!" আবার আমাদের দেখান এবং বলেন, “কি সুন্দর মা করেছেন দেখ!” মা বলিলেন, “কি একটা সামান্য জিনিস পেয়ে ওর আহ্লাদ দেখেছ! আহা, কি সরল বিশ্বাস ! যেন সাক্ষাৎ দেবী। নরেনকে (স্বামীজী) কি ভক্তিই ক'রে ! সে এই দেশে জন্মেছে ব'লে সর্বস্ব ছেড়ে এসে প্রাণ দিয়ে তার কাজ করছে। কি গুরুভক্তি ! এদেশের উপরই বা কি ভালবাসা !”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৭৫ (শ্রীমতি সরলাবালা দেবীর স্মৃতিচারণ)
@@ -4217,7 +4217,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P112.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একদিন সন্ধ্যার পর সুধীরা দিদি ও আমি মার কাছে বসিয়া আছি; মা বলিলেন, “যে একবার ঠাকুরকে ডেকেছে, তার আর ভয় নাই। ঠাকুরকে ডাকতে ডাকতে কৃপা হলে তবে প্রেমভক্তি হয়। এই প্রেমটা অতি গোপনীয় জিনিস, মা। ব্রজগোপীদের প্রেমভক্তি হয়েছিল। তারা এক কৃষ্ণকে ছাড়া আর কিছুই জানত না। নীলকণ্ঠের গানে আছে, ‘ও প্রেমরত্নধন রাখতে হয় অতি যতনে।’”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৭৯ (শ্রীমতি সরলাবালা দেবীর স্মৃতিচারণ)
@@ -4253,7 +4253,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P113.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 যোগেন-মার মনে একবার সংশয় আসে—‘ঠাকুর অমন ত্যাগী ছিলেন, আর মাকে দেখছি ঘোর সংসারীর মতন--ভাই, ভাই-পো, ভাই-ঝিদের জন্য অস্থির। কিছুই বুঝতে পারি না।’ একদিন গঙ্গার ঘাটে ধ্যান করিতে বসিয়া তিনি দেখিলেন, ঠাকুর সামনে দাঁড়িয়ে বলছেন “দেখ, গঙ্গায় কি ভাসছে।” যোগেন-মা দেখেন একটি সদ্যোজাত শিশু নাড়িভুঁড়ি-জড়ান গঙ্গায় ভাসিয়া যাইতেছে। ঠাকুর বলিলেন, “গঙ্গা কি কখনও অপবিত্র হয়? না তাকে কিছু স্পর্শ করে? ওকে তেমনি জানবে। ওর উপর সন্দেহ এনো না, ওকে একে (নিজেকে দেখাইয়া) অভেদ জানবে।” গঙ্গা হইতে ফিরিয়া আসিয়া যোগেন-মা মাকে প্রণাম করিয়া বলিলেন, “না, আমায় ক্ষমা কর।” মা বলিলেন, “কেন যোগেন, কি হয়েছে?” তখন যোগেন-মা ঘটনাটি বলিয়া বলিলেন, “তোমার উপর অবিশ্বাস এসেছিল। তা আজ ঠাকুর আমাকে দেখিয়ে দিলেন।” মা একটু হাসিয়া বলিলেন, “তার আর কি হয়েছে? অবিশ্বাস তো আসবেই। সংশয় আসবে, আবার বিশ্বাস হবে। এই রকম করেই তো বিশ্বাস হয়। এই রকম হ'তে হ'তে পাকা বিশ্বাস হয়।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৮৮ (শ্রীমতি সরলাবালা দেবীর স্মৃতিচারণ)
@@ -4289,7 +4289,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P114.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 ঠাকুরের শরীরত্যাগের পর মা যখন বৃন্দাবনে ছিলেন, সেই সময়ের কথা বলিতে বলিতে তিনি একদিন ‘উদ্বোধনের’ বাড়িতে বলিলেন, “দেখ মা, আমি রাধারমণের কাছে প্রার্থনা করেছিলুম, ‘ঠাকুর, আমার দোষদৃষ্টি ঘুচিয়ে দাও। আমি যেন কখনও কারও দোষ না দেখি।’”
 মা বলিতেন, “দোষ তো মানুষ করবেই ! ও দেখতে নেই। ওতে নিজেরই ক্ষতি হয়। দোষ দেখতে দেখতে শেষে দোষই দেখে।” একবার যোগেন-মাকে বলিয়াছিলেন, “যোগেন, দোষ কারও দেখো না, শেষে দূষিত চোখ হয়ে যাবে।”<br><br>
@@ -4326,7 +4326,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P115.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একবার এক স্ত্রী-ভক্ত মার নিকট তাঁহার বন্ধুর সহিত মনোমালিন্যের কথা বলায় মা তাঁহাকে বলিতেছেন, “দেখ মা, মানুষকে ভালবাসলে দুঃখকষ্ট পেতে হয়। ভগবানকে যে ভালবাসতে পারে সেই ধন্য হয়, তার দুঃখকষ্ট থাকে না।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৩৯০ (শ্রীমতি সরলাবালা দেবীর স্মৃতিচারণ)
@@ -4362,7 +4362,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P116.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা একবার জনৈক ভক্তকে বলিয়াছিলেন, “দেখ বাবা, বিপদ যে তোমাদের আসবে না, তা নয়, ও তো আসবেই। তবে ও থাকবে না ; দেখবে পায়ের তলা দিয়ে জলের মতন চলে যাবে।”
 একটি ভক্ত মাকে জিজ্ঞাসা করিয়াছিলেন, “এত তো জপতপ করলুম, কিছুই তো হ'ল না।” উত্তর মা বলিলেন, “এ কি শাক মাছ যে দাম দিয়ে কিনে নিলুম?”<br><br>
@@ -4399,7 +4399,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P117.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 আমি -- আপনি তো ইচ্ছা করলেই ঠাকুরকে দেখিয়ে দিতে পারেন।
 মা -- নরেনকে ঠাকুর ছুঁয়েছিলেন, তাতে নরেন চেঁচিয়ে উঠেছিল। সাধনভজন কর, দেখতে পাবে।
@@ -4440,7 +4440,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P118.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 জানবে এই তিনটির সম্বন্ধে খুব সাবধানে চলতে হয়--প্রথম নদীর তীরে বাসস্থান; কোন্ সময়ে নদী হুস্ করে এসে বাসস্থান ভেঙে নিয়ে চলে যাবে। দ্বিতীয়, সাপ; দেখলেই খুব সাবধানে থাকতে হয়--কখন এসে কামড়ে দেবে তার ঠিক নেই। তৃতীয়, সাধু; তাঁদের কোন্ কথায় বা মনের ভাবে গৃহস্থের অমঙ্গল হতে পারে তা তুমি জান না। তাঁদের দেখলে ভক্তি করতে হয়; কোনও জবাব করে অবজ্ঞা দেখান উচিৎ নয়।" মার এই অমূল্য উপদেশ চিরদিনের জন্য হৃদয়ে গ্রথিত রহিয়াছে।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪০৮ (শ্রী--র স্মৃতিচারণ)
@@ -4476,7 +4476,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P119.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 পর বৎসর জয়রামবাটীতে এক সন্ন্যাসী ভক্তের নৈরাশ্যপূর্ণ পত্রের আলোচনা-প্রসঙ্গে মা হঠাৎ গম্ভীরভাবে তেজের সহিত বলিতে লাগিলেন, “সেকি গো! ঠাকুরের নাম কি চারটিখানি কথা যে অমনি যাবে! ও নাম কিছুতেই ব্যর্থ হবে না। যারা ঠাকুরকে মনে ক'রে এখানে এসেছে তাদের ইষ্টদর্শন হতেই হবে। যদি আর কোন সময়ে না হয় তো অন্ততঃ মৃত্যুর পূর্বক্ষণে হবেই হবে।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪১০ (শ্রীললিতমোহন সাহার স্মৃতিচারণ)
@@ -4512,7 +4512,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P120.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 জনৈক সাধু কাশীতে মণিকর্ণিকায় খুব তপস্যা করিতেছিলেন। আমি কলিকাতা আসিবার সময় তিনি আমাকে বলিলেন, “মাকে জিজ্ঞাসা ক'রো কয়দিনে ভগবানের কৃপা আমার উপর হবে।” আমি মাকে ঐ কথা বলায় মা গম্ভীর হইয়া বলিলেন, “তাকে লিখে দাও যে, তপস্যা করছ বলেই যে ভগবানের কৃপা হবে, এমন নয়। আগে ঋষিরা ঊর্ধ্বপদে হেঁটমুণ্ড হয়ে নীচে আগুন জ্বেলে হাজার হাজার বছর কত তপস্যা করত! তাতে কখনও কারও উপর কৃপা হ'ত, কখনও বা হ'ত না। সবই তাঁর দয়ার উপর নির্ভর করে।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪২০ (স্বামী শান্তানন্দের স্মৃতিচারণ)
@@ -4548,7 +4548,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P121.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একদিন আমি মাকে জিজ্ঞাসা করিয়াছিলাম, “মা, যাদের মন্ত্রদাতা গুরু ও সন্ন্যাসের গুরু পৃথক, তারা কাকে গুরুরূপে ধ্যান করবে?” মা উত্তরে বলিলেন, “মন্ত্রদাতা গুরুই গুরু, এই মন্ত্র থেকেই ক্রমে ত্যাগ, বৈরাগ্য, সন্ন্যাস লাভ হয়।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪২১ (স্বামী শান্তানন্দের স্মৃতিচারণ)
@@ -4584,7 +4584,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P122.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা -- ভক্তি করে ডাক, সকলকেই পাবে। আমি বলছি, তোমরা ধন্য যে এমন সময় জন্মেছ। তাঁর লীলাখেলা দেখার সময় এখন। শ্রদ্ধা ও ভক্তির চোখে দেখলে সবই সহজ।
 আমি -- মা, মানুষের ইচ্ছামতই কি সব কাজ হয় এবং আশা পূর্ণ হয়?
@@ -4622,7 +4622,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P123.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 শেষবার জয়রামবাটীতে রাঁধুনী ব্রাহ্মণী রাত্রি নয়টার সময় আসিয়া বলিল, “কুকুর ছুঁয়েছি, স্নান ক'রে আসি।” মা বলিলেন, “এত রাত্রে স্নান ক'রো না, হাত পা ধুয়ে এসে কাপড় ছাড়।” রাঁধুনী বলিল, “তাতে কি হয়?” মা বলিলেন, “তবে গঙ্গাজল নাও।” তাহাতেও তাঁহার মন উঠিল না। তারপর মা বলিলেন, “তবে আমাকে স্পর্শ কর।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪২৫ (শ্রী--র স্মৃতিচারণ)
@@ -4658,7 +4658,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P124.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 একজন জিজ্ঞাসা করিলেন, “মা, ওঁরা (মায়ের আত্মীয়েরা) এত আপনার সঙ্গ করছেন, তবু একটুও জ্ঞান হয় না কেন?” মা বলিলেন, “সব বাঁশ, শিমূলগাছ-চন্দনের কাছে থাকলে কি হবে? সারবান বৃক্ষ হওয়া চাই।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪২৬ (শ্রী--র স্মৃতিচারণ)
@@ -4694,7 +4694,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P125.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 খুব অপ্রত্যাশিতভাবে কোন এক বিশিষ্ট বড় লোকের বাড়ি হইতে এক ভক্ত যুবকের বিবাহের প্রস্তাব আসে। তাঁহারা অনেক টাকা দিতে চাহিয়াছিলেন। উহাতে যুবকের প্রায় সারা জীবনের অর্থের অভাব ঘুচিয়া যাইতে পারিত। যুবক তখন এম-এ পাস করিয়া এক স্কুলের হেড-মাস্টারি করে। তাহার মন ভোগাকাঙ্ক্ষাশূন্য ছিল না। তাই শ্রীশ্রীমার মত জানিবার জন্য জয়রামবাটীতে তাঁহার নিকট বিবাহের কথা উত্থাপন করে। মা সব শুনিয়া বলিলেন, “বাবা, তুমি তো বেশ আছ। কেন সংসার-অনলে দগ্ধ হতে যাবে? তুমি ভাল কাজ করছ। অনেক ছেলে তোমার সাহায্যে পড়াশুনা করছে। তারা সব ভাল হবে, তোমারও কল্যাণ হবে।” যুবকটি বলিল, “মা, মন যে মাঝে মাঝে চঞ্চল হয়, ভোগের দিকে যায়, তাই ভয় হয়।” মা তাহাতে বলিলেন, “তুমি কিছু ভয় ক'রো না। আমি বলছি, কলিতে মনের পাপ পাপ নয়। তুমি নিশ্চিন্ত থাক, তোমার কোন ভয় নেই।” মায়ের এই অভয় বাণী শোনা ভক্তটি আর বিবাহের কথা ভাবে নাই, বা সাময়িক মনের উদ্বেগেও বিচলিত হয় নাই।<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪২৭ (শ্রী--র স্মৃতিচারণ)
@@ -4730,7 +4730,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P126.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 জনৈক ভক্ত মাকে জিজ্ঞাসা করেন, “ঠাকুর বলেছেন, ‘এখানে যারা আসবে তাদের শেষ জন্ম।’ আবার স্বামীজী বলেছেন, ‘সন্ন্যাস না হলে কারও মুক্তি নেই।’ গৃহীদের তবে উপায়।” মা তদুত্তরে বলিলেন, “হাঁ, ঠাকুর যা বলেছেন তাও ঠিক, আবার স্বামীজী যা বলেছেন তাও ঠিক। গৃহীদের বহিঃ-সন্ন্যাসের দরকার নেই, তাদের অন্তঃ-সন্ন্যাস আপনা হতে হবে। তবে বহিঃ-সন্ন্যাস আবার কারও কারও দরকার। তোমাদের ভয় কি? তাঁর শরণাগত হয়ে থাকবে, আর সর্বদা জানবে যে ঠাকুর তোমার পেছনে আছেন।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪২৮ (শ্রী--র স্মৃতিচারণ)
@@ -4766,7 +4766,7 @@ a2a_config.overlays = a2a_config.overlays || [];
 a2a_config.overlays.push({services: ['pinterest', 'facebook', 'twitter', 'telegram', 'tumblr','google_gmail', 'email']});
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
-<div align="center"><img id="myImg" class="center" border="0" src="P001.jpeg" width=550 style="float:none; padding: 10px;"></div>
+<div align="center"><img id="myImg" class="center" border="0" src="P127.jpeg" width=550 style="float:none; padding: 10px;"></div>
 <p style="text-align: justify;"><font size=3 face="Arial">
 মা শুনিয়া বলিলেন, “মন কি শুধু দোষেরই গোড়া? ব্রহ্মপদ-লাভ করার জন্য ছুটেছ, এখন মনকেও সঙ্গে নিতে হবে। সেখানে পৌঁছুলে তখন এরা কেউ থাকবে না। এখন মনের সহায়তারই বেশী দরকার। শুদ্ধ মনই তো মানুষকে পথ দেখিয়ে নেয়।” আমি সে কথা আমার কাকাকে লিখিলাম। শ্রীশ্রীমা আর একটি কথা বলিয়াছিলেন, “দুষ্ট মনকে যদি মোড় ফিরিয়ে দাও, তবে সে-ই ইষ্টকে ধরতে পারবে।”<br><br>
 - “শ্রীশ্রীমায়ের কথা”, পৃঃ ৪২৫ (শ্রীমতী ক্ষীরোদাবালা রায়ের স্মৃতিচারণ)
