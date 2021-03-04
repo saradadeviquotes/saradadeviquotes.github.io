@@ -47,8 +47,8 @@ citecolor: gray
 <!-- Insert the navigation bar -->
 
 <div class="navbar">
-  <!-- <a href="index.html"><img src="home1.png" title="Home" width=35px>Sarada Devi Quotes</a> -->
-  <div align="center"><font style="font-family:'Cambria';font-size:35px;">S a r a d a &nbsp;&nbsp; D e v i &nbsp;&nbsp; Q u o t e s </font></div>
+  <a href="index.html"><img src="home1.png" title="Home" width=35px></a>
+  <div align="center"><font style="font-family:'Cambria';font-size:35px;">S a r a d a &nbsp;&nbsp; D e v i &nbsp;&nbsp; Q u o t e s &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></div>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
   <!--   <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSarada-Devi-Quotes-106119718202793&tabs=timeline&width=340&height=127&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="340" height="127" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
