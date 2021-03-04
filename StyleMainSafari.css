@@ -4,20 +4,23 @@
 /* ####################################################################### */
 
 
-/* Style html body */
+/* To turn off printing title */
 
-body { 
-  margin: 0 auto; 
-  margin-top: 75px; 
-  /*background-color: white;*/
-  background-image: linear-gradient(white, #89CDFD); /*url("b1.jpg");*/
+.author,.title{
+    display: none;
 }
 
 
 
-/* Style the header */
+/* Style html body */
 
-@import url( 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css' );
+body { 
+  margin: 0 auto; 
+  margin-top: 85px; 
+  /*background-color: white;*/
+  background-image: linear-gradient(white, #89CDFD); /*url("b1.jpg");*/
+}
+
 
 
 /* -- Style the header navigation bar */
@@ -212,7 +215,7 @@ h1.title {
 .close {
   position: absolute;
   top: 15px;
-  right: 35px;
+  right: 200px;
   color: #f1f1f1;
   font-size: 40px;
   font-weight: bold;
@@ -233,8 +236,6 @@ h1.title {
     width: 100%;
   }
 }
-
-
 
 
 

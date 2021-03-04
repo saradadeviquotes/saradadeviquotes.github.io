@@ -1,5 +1,6 @@
+
 ---
-title: " "
+title: Sarada Devi Quotes
 output:
  html_document:
   includes:
@@ -10,15 +11,24 @@ output:
 urlcolor: gray
 citecolor: gray
 ---
-<!-- ---
-title: |
-  <center><font face="Helvetica Neue" color="#202124">Swami Vivekananda Quotes (Authentic)</font></center>
---- -->
 
+
+
+
+<!-- JavaScript SDK for enabling Facebook Comments Plugin -->
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="bJcxDrwu">
+</script>
+
+
+
+
+<!-- Set styles for overall width of the HTML page, p, title font etc -->
 
 <style type="text/css"> /* This sets the overall width of the HTML page */
  .main-container {
-   max-width: 1200px;
+   max-width: 1100px;
    margin-left: auto;
    margin-right: auto;
  };
@@ -33,17 +43,13 @@ title: |
 
 
 
-```{r set-options, echo=FALSE, cache=FALSE}
-options(width = 150)
-```
 
-```{r setup, include = F}
-knitr::opts_chunk$set(echo = T)
-```
+<!-- Insert the navigation bar -->
 
 <div class="navbar">
-  <a href="index.html"><img src="home1.png" title="Home" width=35px>Sarada Devi Quotes</a>
-  <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="CW1.png" title="Complete Works of Swami Vivekananda" width=50px></a> -->
+  <!-- <a href="index.html"><img src="home1.png" title="Home" width=35px>Sarada Devi Quotes</a> -->
+  <div align="center"><font style="font-family:'Cambria';font-size:35px;">S a r a d a &nbsp;&nbsp; D e v i &nbsp;&nbsp; Q u o t e s </font></div>
+  <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
   <!--   <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSarada-Devi-Quotes-106119718202793&tabs=timeline&width=340&height=127&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="340" height="127" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
   -->
@@ -53,17 +59,7 @@ knitr::opts_chunk$set(echo = T)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!-- Insert the cover pic -->
 
 <div id="header" align="center">
 <img src="ma.png" height=500 title="Sri Sri Ma Sarada Devi" />
@@ -71,19 +67,10 @@ knitr::opts_chunk$set(echo = T)
 
 
 
-<!-- ##### JavaScript SDK for enabling Facebook Comments Plugin #### -->
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="bJcxDrwu">
-</script>
-<!-- ################ -->
 
-
-<!-- ################ Introduction text ################-->
+<!-- Cover quote -->
 
 <p>&nbsp;</p>
-
-
-
 <div align="center"><font size=3 face="Arial" color="#161618"><b>
 <p>"এ কলিতে শুধু সত্যের আঁট থাকলেই ভগবানলাভ হয়। ঠাকুর বলতেন, 'যে সত্যকথাটি ধরে আছে সে ভগবানের কোলে শুয়ে আছে।'"</p></b> 
  $\hspace{6in}$ ~ শ্রীশ্রীমায়ের কথা, পৃঃ ২৮৮, স্বামী অরূপানন্দের স্মৃতিচারণ
@@ -93,6 +80,11 @@ knitr::opts_chunk$set(echo = T)
 <hr>
 <p>&nbsp;</p> 
 
+
+
+
+<!-- Introduction text -->
+
 <div align="center"><p style="width: 60%;"><i>
 <font size=4>বিভিন্ন গ্রন্থ থেকে সংগৃহীত শ্রীশ্রীমায়ের উক্তিসমূহ</font></i></p>
 </div> 
@@ -100,22 +92,23 @@ knitr::opts_chunk$set(echo = T)
 <p>&nbsp;<br></p>
 
 
+
+
+<!-- Insert search box -->
+
 <div1>
 <script async src="https://cse.google.com/cse.js?cx=5ba2779144474edfa"></script>
 <div class="gcse-search" id="cse" style="width: 40%; margin: 0 auto"></div>
 </div1>
-
 
 <p>&nbsp;</p>
 
 
 
 
+<!-- Javascript to randomly organize pics [http://www.javascriptkit.com/javatutors/randomorder.shtml] --> 
 
-
-<!-- ################ Javascript to randomly organize pics ################ --> 
-<!-- http://www.javascriptkit.com/javatutors/randomorder.shtml -->
-```{js, echo=F}
+<script>
  var contents=new Array()
  //width is set as 360 because 3 pics in a row makes 1180, and the html page width is set as 1200.
  contents[0]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P001.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P001.html"><button class="btn">Share</button><button class="btn2">  </button></a></div>'
@@ -246,7 +239,7 @@ knitr::opts_chunk$set(echo = T)
  contents[114]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P126.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P126.html"><button class="btn">Share</button><button class="btn2">  </button></a></div>'
  contents[114]='<div class="container"><img id="myImg" class="myImages" border="1" src="images/P127.jpeg" style="width:325px;max-width:400px"><a target="_blank" href="images/P127.html"><button class="btn">Share</button><button class="btn2">  </button></a></div>'
  
-``` 
+</script> 
 
 <script>
  var i=0
@@ -254,30 +247,33 @@ knitr::opts_chunk$set(echo = T)
  var random
  var spacing="&nbsp;"
  //while all of array elements haven't been cycled thru
- while (i<15){
+ while (i<12){
      //generate random num between 0 and arraylength-1
      random=Math.floor(Math.random()*contents.length)  
      //if element hasn't been marked as "selected"
      if (contents[random]!="selected"){
-         document.write(contents[random] + spacing + spacing + spacing + spacing + spacing + spacing)
+         document.write(contents[random])
          //mark element as selected
          contents[random]="selected"
          i++
      }
  }
 </script>
-<!-- ################ -->
 
-<!-- ################ Javascript to pop-up image onclick in modal ################ --> 
-<!-- https://www.w3schools.com/howto/howto_css_modal_images.asp -->
-<!-- The Modal -->
+
+
+
+
+<!-- Javascript to pop-up image onclick in modal [https://www.w3schools.com/howto/howto_css_modal_images.asp] --> 
+
 <div id="myModal" class="modal">
-  <span class="close">&times;</span>  <!-- The Close Button -->
-  <img class="modal-content" id="img01">  <!-- Modal Content (The Image) -->
-  <div id="caption"></div>  <!-- Modal Caption (Image Text) -->
+  <span class="close">&times;</span>  		<!-- The Close Button -->
+  <img class="modal-content" id="img01">  	<!-- Modal Content (The Image) -->
+  <div id="caption"></div>  				<!-- Modal Caption (Image Text) -->
 </div>
 
 <script>
+ 
  // Get the modal
  var modal = document.getElementById("myModal"); 
 
@@ -285,9 +281,11 @@ knitr::opts_chunk$set(echo = T)
  var images = document.getElementsByClassName('myImages');
  var modalImg = document.getElementById("img01");
  var captionText = document.getElementById("caption");
- for (var i = 0; i < images.length; i++) {
+ for (var i = 0; i < images.length; i++) 
+ {
   var img = images[i];
-  img.onclick = function(){
+  img.onclick = function()
+  {
     modal.style.display = "block";
     modalImg.src = this.src;
     captionText.innerHTML = this.alt;
@@ -301,66 +299,30 @@ knitr::opts_chunk$set(echo = T)
  span.onclick = function() { 
    modal.style.display = "none";
  }
+
+ // When the user presses Escape key, close the modal
+ document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') {
+    // close modal here
+    modal.style.display = "none";
+  }
+})
 </script>
-<!-- ################ -->
-
-
-
-
-
-
-
-<!-- <div class="container">
-<a target="_blank" OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=700,top=0,left=300'); return false;" href="P001.html">
-  <img id="myImg" class="myImages" border="1" src="P001.jpeg" style="width:325px;max-width:400px" />
-  <button class="btn">Share</button>
-</a>
-</div> -->
-
-
-
-
-<!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
-<!-- Will not work in laptop. Will work in web. -->
-
-<!-- <script>
-var a2a_config = a2a_config || {};
-a2a_config.overlays = a2a_config.overlays || [];
-a2a_config.overlays.push({});
-</script>
-
-<script async src="https://static.addtoany.com/menu/page.js"></script>
- -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <hr>
 
 
-<!-- ################ Facebook comments plugin ############## -->
+
+
+<!-- Insert Facebook comments plugin -->
 
 <div align="center" class="fb-comments" data-href="https://saradadeviquotes.github.io" data-width="1000" data-numposts="10"></div>
 <br><br><br>
 
 
-<!-- ################ Visit counter ############## -->
+
+
+<!-- Insert visit counter -->
 
 <div align="center">
 <a href="https://info.flagcounter.com/Wwks"><img src="https://s01.flagcounter.com/map/Wwks/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
@@ -370,10 +332,12 @@ a2a_config.overlays.push({});
 <hr><br>
 
 
+
+
 ```{r, eval = F, include = F}
 	# Create Rmd html result
 	rm(list=ls())
-	dir = "/Users/nsanyal/Dropbox/My Passport I/Documents/GitHub/saradadeviquotes.github.io"
+	dir = "/Users/nsanyal/Dropbox/MyPassport/Documents/GitHub/saradadeviquotes.github.io"
 	setwd(dir)
 	library(rmarkdown)
 	render( input="index.Rmd" )

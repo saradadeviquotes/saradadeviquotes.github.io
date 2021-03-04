@@ -4,20 +4,23 @@
 /* ####################################################################### */
 
 
+/* To turn off printing title */
+
+.author,.title{
+    display: none;
+}
+
+
+
 /* Style html body */
 
 body { 
   margin: 0 auto; 
   margin-top: 75px; 
-  background-color: white; /*#89CDFD;*/
-  /*background-image: radial-gradient(yellow, #89CDFD, white); /*url("b1.jpg");*/*/
+  /*background-color: white;*/
+  background-image: linear-gradient(white, #89CDFD); /*url("b1.jpg");*/
 }
 
-
-
-/* Style the header */
-
-@import url( 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css' );
 
 
 /* -- Style the header navigation bar */
@@ -59,10 +62,10 @@ body {
 
 /* Style headings */
 
-h1 { 
+h1.title { 
   color: #545454; 
   font-family: 'Berkshire Swash', Helvetica, sans-serif; 
-  font-size: 60px; 
+  font-size: 40px; 
   font-weight: 600; 
   line-height: 62px; 
   margin: 0 0 8px; 
@@ -82,7 +85,7 @@ h1 {
   /*-webkit-box-shadow: 3px 3px 5px 1px #ccc;*/
 }
 
-#myImg:hover {opacity: 0.8;}
+#myImg:hover {opacity: 1.5;}
 
 
 
@@ -95,7 +98,7 @@ h1 {
   width: 90%;
   max-width: 355px;
   float:left;
-  height: 470px
+  height: 500px
 }
 
 .container img {
@@ -212,7 +215,7 @@ h1 {
 .close {
   position: absolute;
   top: 15px;
-  right: 35px;
+  right: 200px;
   color: #f1f1f1;
   font-size: 40px;
   font-weight: bold;
