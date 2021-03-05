@@ -325,8 +325,11 @@ citecolor: gray
 
 <!-- Insert visit counter -->
 
+
 <div align=center>
-<a title="free world map tracker" href="https://24counter.com/vmap/1614927147/"> <img title="free world map counter" src="https://24counter.com/map/view.php?type=180&id=1614927147" border="1" alt="world map hits counter" width=300px /></a><br> <a href="https://24counter.com/map/"></a>
+<a href="https://24counter.com/vmap/1614927147/" title="blog counter">
+<img src="https://24counter.com/map/view.php?type=180&id=1614927147" border="1" title="free web counter" alt="world map hits counter" width=300px></a>
+<!-- <a title="free world map tracker" href="https://24counter.com/vmap/1614927147/"> <img title="free world map counter" src="https://24counter.com/map/view.php?type=180&id=1614927147" border="1" alt="world map hits counter" width=300px /></a><br> <a href="https://24counter.com/map/"></a> -->
 </div>
 
 
