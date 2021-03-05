@@ -85,9 +85,10 @@ citecolor: gray
 
 <!-- Introduction text -->
 
-<div align="center"><p style="width: 60%;"><i>
-<font size=4>বিভিন্ন গ্রন্থ থেকে সংগৃহীত শ্রীশ্রীমায়ের উক্তিসমূহ</font></i></p>
-</div> 
+<div align="center"><p style="width: 60%;">
+<i><font size=4>বিভিন্ন গ্রন্থ থেকে সংগৃহীত শ্রীশ্রীমায়ের উক্তিসমূহ<br><br></font></i>
+<font size=2>(প্রত্যেকবার পেজ রিফ্রেশ করলে নয়টি যে-কোনো উদ্ধৃতি আসবে)</font>
+</p></div> 
 
 <p>&nbsp;<br></p>
 
@@ -247,7 +248,7 @@ citecolor: gray
  var random
  var spacing="&nbsp;"
  //while all of array elements haven't been cycled thru
- while (i<12){
+ while (i<9){
      //generate random num between 0 and arraylength-1
      random=Math.floor(Math.random()*contents.length)  
      //if element hasn't been marked as "selected"
