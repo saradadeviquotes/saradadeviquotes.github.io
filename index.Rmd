@@ -325,10 +325,10 @@ citecolor: gray
 
 <!-- Insert visit counter -->
 
-<div align="center">
-<a href="https://info.flagcounter.com/Wwks"><img src="https://s01.flagcounter.com/map/Wwks/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-<!-- <a href="https://info.flagcounter.com/iiQb"><img src="https://s11.flagcounter.com/count2/iiQb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
+<div align=center>
+<a title="free world map tracker" href="https://24counter.com/vmap/1614927147/"> <img title="free world map counter" src="https://24counter.com/map/view.php?type=180&id=1614927147" border="1" alt="world map hits counter" width=300px /></a><br> <a href="https://24counter.com/map/">Map counter</a>
 </div>
+
 
 <hr><br>
 
