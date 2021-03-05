@@ -5,7 +5,7 @@ output:
  html_document:
   includes:
    in_header: ["myheader.html", "BrowserDetection.html"]  
-  theme: default  		# default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti
+  theme: default  			# default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti
   highlight: tango  		# specifies the syntax highlighting style
   logo: header.jpeg
 urlcolor: gray
