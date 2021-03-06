@@ -64,13 +64,16 @@ citecolor: gray
 <div id="header" align="center">
 <img src="ma.png" height=500 title="Sri Sri Ma Sarada Devi" />
 </div> 
-
-
+<!-- <div style="position:relative;height:250px;"><img src="lotus.png" style="position:absolute;width:200px;top:-135px;left:150px;" /></div> -->
+<!-- <div style="position:relative;height:250px;"><img src="lotus.png" style="position:absolute;width:200px;top:-383px;right:150px;" /></div> -->
+<iframe style="border:none;overflow:hidden;position:absolute;top:50px;left:150px" scrolling="no" width=200px><img src="lotus.png" style="width:200px" />
+</iframe>
 
 
 <!-- Cover quote -->
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
+<br>
 <div align="center"><font size=3 face="Arial" color="#161618"><b>
 <p>"এ কলিতে শুধু সত্যের আঁট থাকলেই ভগবানলাভ হয়। ঠাকুর বলতেন, 'যে সত্যকথাটি ধরে আছে সে ভগবানের কোলে শুয়ে আছে।'"</p></b> 
  $\hspace{6in}$ ~ শ্রীশ্রীমায়ের কথা, পৃঃ ২৮৮, স্বামী অরূপানন্দের স্মৃতিচারণ

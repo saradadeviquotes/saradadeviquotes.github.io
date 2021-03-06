@@ -18,7 +18,7 @@ body {
   margin: 0 auto; 
   margin-top: 85px; 
   /*background-color: white;*/
-  background-image: linear-gradient(white, #89CDFD); /*url("b1.jpg");*/
+  background-image: linear-gradient(to bottom, #E5F4FF, #89CDFD); /*url("b1.jpg");*/
 }
 
 
