@@ -66,8 +66,9 @@ citecolor: gray
 </div> 
 <!-- <div style="position:relative;height:250px;"><img src="lotus.png" style="position:absolute;width:200px;top:-135px;left:150px;" /></div> -->
 <!-- <div style="position:relative;height:250px;"><img src="lotus.png" style="position:absolute;width:200px;top:-383px;right:150px;" /></div> -->
-<iframe style="border:none;overflow:hidden;position:absolute;top:50px;left:150px" scrolling="no" width=200px><img src="lotus.png" style="width:200px" />
-</iframe>
+<iframe style="border:none;overflow:hidden;position:absolute;top:470px;left:250px" scrolling="no" width=500px height=175px src="lotus1.png"></iframe>
+<iframe style="border:none;overflow:hidden;position:absolute;top:470px;right:-63px" scrolling="no" width=500px height=175px src="lotus1.png"></iframe>
+
 
 
 <!-- Cover quote -->
@@ -329,11 +330,7 @@ citecolor: gray
 <!-- Insert visit counter -->
 
 
-<div align=center>
-<a href="https://24counter.com/vmap/1614927147/" title="blog counter">
-<img src="https://24counter.com/map/view.php?type=180&id=1614927147" border="1" title="free web counter" alt="world map hits counter" width=300px></a>
-<!-- <a title="free world map tracker" href="https://24counter.com/vmap/1614927147/"> <img title="free world map counter" src="https://24counter.com/map/view.php?type=180&id=1614927147" border="1" alt="world map hits counter" width=300px /></a><br> <a href="https://24counter.com/map/"></a> -->
-</div>
+
 
 
 <hr><br>
