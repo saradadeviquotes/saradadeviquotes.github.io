@@ -3,6 +3,12 @@
 /* This is the css style file to be used for index page for Safari browser */
 /* ####################################################################### */
 
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    /*padding-top: 55%;*/
+}
+
 
 /* To turn off printing title */
 
