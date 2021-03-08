@@ -26,7 +26,7 @@ citecolor: gray
 
 <!-- JavaScript SDK for enabling Facebook Analytics -->
 
-<!-- <script>
+<script>
   window.fbAsyncInit = function() {
     FB.init({
       appId      : '127776775941065',
@@ -48,7 +48,7 @@ citecolor: gray
    }(document, 'script', 'facebook-jssdk'));
 </script>
 
- -->
+
 
 
 <!-- Set styles for overall width of the HTML page, p, title font etc -->
@@ -95,8 +95,8 @@ citecolor: gray
 <div style="position:absolute;top:25.3%;left:25.7%"><img src="lotus1.png"></div>
 <div style="position:absolute;top:50.4%;left:20.4%"><img src="lotus1.png"></div>
 
-<div style="position:absolute;top:26%;left:62.5%"><img src="lotus1.png"></div>
-<div style="position:absolute;top:51.2%;left:67.7	%"><img src="lotus1.png"></div>
+<div style="position:absolute;top:26.2%;left:62.7%"><img src="lotus1.png"></div>
+<div style="position:absolute;top:52.2%;left:67.5%"><img src="lotus1.png"></div>
 
 
 
