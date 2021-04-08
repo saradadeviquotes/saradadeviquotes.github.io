@@ -5,8 +5,8 @@ output:
  html_document:
   includes:
    in_header: ["myheader.html", "BrowserDetection.html"]  
-  theme: default  			# default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti
-  highlight: tango  		# specifies the syntax highlighting style
+  theme: default        # default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti
+  highlight: tango      # specifies the syntax highlighting style
   logo: header.jpeg
 urlcolor: gray
 citecolor: gray
@@ -75,7 +75,7 @@ citecolor: gray
 
 <div class="navbar">
   <a href="index.html"><img src="home.png" title="Home" width=35px></a>
-  <div align="center"><font style="font-family:'Cambria';font-size:35px;">S a r a d a &nbsp;&nbsp; D e v i &nbsp;&nbsp; Q u o t e s &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></div>
+  <div align="center"><font style="font-family:'Cambria';font-size:40px;">&nbsp;&nbsp;S a r a d a &nbsp;&nbsp; D e v i &nbsp;&nbsp; Q u o t e s &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></div>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
   <!--   <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSarada-Devi-Quotes-106119718202793&tabs=timeline&width=340&height=127&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="340" height="127" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -92,11 +92,11 @@ citecolor: gray
 <img src="ma.png" style="height:auto;width=50%;" width=528 title="Sri Sri Ma Sarada Devi" />
 </div> 
 
-<div style="position:absolute;top:25.3%;left:25.7%"><img src="lotus1.png"></div>
+<!-- <div style="position:absolute;top:25.3%;left:25.7%"><img src="lotus1.png"></div>
 <div style="position:absolute;top:50.4%;left:20.4%"><img src="lotus1.png"></div>
 
 <div style="position:absolute;top:26.2%;left:62.7%"><img src="lotus1.png"></div>
-<div style="position:absolute;top:52.2%;left:67.5%"><img src="lotus1.png"></div>
+<div style="position:absolute;top:52.2%;left:67.5%"><img src="lotus1.png"></div> -->
 
 
 
@@ -303,9 +303,9 @@ citecolor: gray
 <!-- Javascript to pop-up image onclick in modal [https://www.w3schools.com/howto/howto_css_modal_images.asp] --> 
 
 <div id="myModal" class="modal">
-  <span class="close">&times;</span>  		<!-- The Close Button -->
-  <img class="modal-content" id="img01">  	<!-- Modal Content (The Image) -->
-  <div id="caption"></div>  				<!-- Modal Caption (Image Text) -->
+  <span class="close">&times;</span>      <!-- The Close Button -->
+  <img class="modal-content" id="img01">    <!-- Modal Content (The Image) -->
+  <div id="caption"></div>          <!-- Modal Caption (Image Text) -->
 </div>
 
 <script>
@@ -370,12 +370,12 @@ citecolor: gray
 
 
 ```{r, eval = F, include = F}
-	# Create Rmd html result
-	rm(list=ls())
-	dir = "/Users/nsanyal/Dropbox/MyPassport/Documents/GitHub/saradadeviquotes.github.io"
-	setwd(dir)
-	library(rmarkdown)
-	render( input="index.Rmd" )
+  # Create Rmd html result
+  rm(list=ls())
+  dir = "/Users/nsanyal/Dropbox/MyPassport/Documents/GitHub/saradadeviquotes.github.io"
+  setwd(dir)
+  library(rmarkdown)
+  render( input="index.Rmd" )
 ```
 
 
