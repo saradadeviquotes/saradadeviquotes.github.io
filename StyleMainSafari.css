@@ -16,12 +16,12 @@
 
 body { 
   margin: 0 auto; 
-  margin-top: 90px; 
+  margin-top: 103px; 
   background-color: rgb(104,105,101);
-  background-image: url("Ganges.jpg");
-  background-position: top;
+  background-image: url("Ganges.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg");
+  background-position: top, 0% 43.3%, 0% 62.7%, 0% 82.4%, 0% 100%;
   background-size: 100%;
-  background-repeat: no-repeat;   
+  background-repeat: no-repeat,no-repeat;   
 }
 
 
