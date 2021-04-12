@@ -1,26 +1,30 @@
 
-/* ################################################################ */
-/* This is the css style file to be used for individual image pages */
-/* ################################################################ */
+/* ####################################################################### */
+/* This is the css style file to be used for index page for mobile/tablet  */
+/* ####################################################################### */
+
+
+/* To turn off printing title */
+
+.author,.title{
+    display: none;
+}
+
 
 
 /* Style html body */
 
 body { 
   margin: 0 auto; 
-  margin-top: 45px; 
-  background-color: white; 
-  background-image: url("simon-berger-unsplash.jpg");
-  background-position: 0px 0px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  width:800px;
+  margin-top: 103px; 
+  background-color: rgb(104,105,101);
+  background-image: url("Ganges.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg"),url("Ganges_1.jpg");
+  background-position: 0px 0px, 0px 957px, 0px 1392px, 0px 1827px, 0px 2262px, 0px 2697px;
+  background-size: 100%;
+  background-repeat: no-repeat,no-repeat;   
 }
 
 
-
-
-/* Style the header */
 
 /* -- Style the header navigation bar */
 
@@ -31,7 +35,7 @@ body {
   top: 0;
   left: 0; 
   width: 100%; 
-  height: 7.5%;
+  height: 10%;
   border-radius: 0px;      /*for rounded corners change this*/
   z-index:1;               /*any higher integer value. This makes content go below navbar.*/
   -webkit-box-shadow: 3px 3px 5px 1px #ccc;   /*this is for shadow*/
@@ -57,21 +61,21 @@ body {
 }
 
 
-
+ 
 
 /* Style headings */
 
-/*h1 { 
-  color: #9E310A; 
+h1.title { 
+  color: #545454; 
   font-family: 'Berkshire Swash', Helvetica, sans-serif; 
-  font-size: 62px; 
-  font-weight: 800; 
+  font-size: 40px; 
+  font-weight: 600; 
   line-height: 62px; 
   margin: 0 0 8px; 
   text-align: left; 
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 } 
-*/
+
 
 
 
@@ -81,9 +85,10 @@ body {
   border-radius: 10px;
   cursor: pointer;
   transition: 0.3s;
+  /*-webkit-box-shadow: 1px 1px 1px 1px #ccc;*/
 }
 
-#myImg:hover {opacity: 1;}
+#myImg:hover {opacity: 1.5;}
 
 
 
@@ -96,7 +101,7 @@ body {
   width: 90%;
   max-width: 355px;
   float:left;
-  height: 470px
+  height: 500px
 }
 
 .container img {
@@ -106,8 +111,8 @@ body {
 
 .container .btn {
   position: absolute;
-  top: 5.4%;
-  left: 12.3%;
+  top: 5%;
+  left: 12.7%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #45bbff;
@@ -131,11 +136,12 @@ body {
   bottom: 20%;
   left: 16%;
   width: 95%;
-  transform: translate(-15%, 340%);      /*this line is different from safari browser*/
+  transform: translate(-15%, 30%);    /*this line is different from chrome browser*/
   /*-ms-transform: translate(50%, 50%);*/
-  background-color: green;
-  color: white;
+  background-color: white; /*#FBFBFD*/
+  color: black;
   font-size: 15px;
+  font-weight: 430;
   padding: 0px 5px;
   border: none;
   cursor: pointer;
@@ -212,7 +218,7 @@ body {
 .close {
   position: absolute;
   top: 15px;
-  right: 35px;
+  right: 200px;
   color: #f1f1f1;
   font-size: 40px;
   font-weight: bold;
@@ -233,6 +239,11 @@ body {
     width: 100%;
   }
 }
+
+
+
+
+
 
 
 

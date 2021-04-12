@@ -4,7 +4,7 @@ title: Sarada Devi Quotes
 output:
  html_document:
   includes:
-   in_header: ["myheader.html", "BrowserDetection.html"]  
+   in_header: ["myheader.html", "BrowserDetectionMain.js"]   
   theme: default        # default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti
   highlight: tango      # specifies the syntax highlighting style
   logo: header.jpeg
