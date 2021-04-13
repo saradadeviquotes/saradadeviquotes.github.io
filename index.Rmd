@@ -133,8 +133,21 @@ citecolor: gray
 <!-- Insert search box -->
 
 <div1>
-<script async src="https://cse.google.com/cse.js?cx=5ba2779144474edfa"></script>
-<div class="gcse-search" id="cse" style="width: 40%; margin: 0 auto"></div>
+<script>  
+  (function() {
+  var cx = '5ba2779144474edfa';
+  var gcse = document.createElement('script');
+  gcse.type = 'text/javascript';
+  gcse.async = true;
+  gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(gcse, s);
+  })();
+  window.onload = function(){
+  document.getElementById('gsc-i-id1').placeholder = 'কীওয়ার্ড সহ অনুসন্ধান করুন, যেমন- দয়া, দীক্ষা, বাসনা, শান্তি, "শরৎ মহারাজ",...';
+  };
+</script>
+<div class="gcse-search" style="width: 40%; margin: 0 auto"></div>
 </div1>
 
 <p>&nbsp;</p>
