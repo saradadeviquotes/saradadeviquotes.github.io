@@ -34,7 +34,7 @@ body {
   position: fixed; 
   top: 0;
   left: 0; 
-  width: 100%; 
+  width: 104%; 
   height: 5%;
   border-radius: 0px;      /*for rounded corners change this*/
   z-index:1;               /*any higher integer value. This makes content go below navbar.*/
