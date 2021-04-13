@@ -18,8 +18,8 @@ body {
   margin: 0 auto; 
   margin-top: 103px; 
   background-color: white;
-  background-image: url("Ganges.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg"),url("Ganges_1.jpg");
-  background-position: 0px 0px, 0px 957px, 0px 1392px, 0px 1827px, 0px 2262px, 0px 2697px;
+  background-image: url("Ganges.jpg"),url("out2.jpg");
+  background-position: 0px 0px, 0px 957px;
   background-size: 100%;
   background-repeat: no-repeat,no-repeat;   
 }
