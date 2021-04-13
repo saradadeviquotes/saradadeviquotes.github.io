@@ -8,8 +8,12 @@
 
 body { 
   margin: 0 auto; 
-  margin-top: 70px; 
-  background-color: white; /*#FBFBFD*/
+  margin-top: 103px; 
+  background-color: white;
+  background-image: url("Ganges.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg"),url("Ganges_1.jpg");
+  background-position: 0px 0px, 0px 500px, 0px 700px, 0px 900px, 0px 1100px, 0px 1300px;
+  background-size: 100%;
+  background-repeat: no-repeat,no-repeat;   
 }
 
  
@@ -193,7 +197,7 @@ body {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 30px; /* Location of the box */
+  padding-top: 40px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
