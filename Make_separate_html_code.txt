@@ -13,7 +13,7 @@ cat > images/P001.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -49,7 +49,7 @@ cat > images/P002.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -85,7 +85,7 @@ cat > images/P003.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -123,7 +123,7 @@ cat > images/P004.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -160,7 +160,7 @@ cat > images/P005.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -196,7 +196,7 @@ cat > images/P006.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -232,7 +232,7 @@ cat > images/P007.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -268,7 +268,7 @@ cat > images/P008.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -304,7 +304,7 @@ cat > images/P009.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -341,7 +341,7 @@ cat > images/P010.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -377,7 +377,7 @@ cat > images/P011.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -414,7 +414,7 @@ cat > images/P012.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -450,7 +450,7 @@ cat > images/P013.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -488,7 +488,7 @@ cat > images/P014.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -525,7 +525,7 @@ cat > images/P015.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -562,7 +562,7 @@ cat > images/P016.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -599,7 +599,7 @@ cat > images/P017.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -635,7 +635,7 @@ cat > images/P018.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -672,7 +672,7 @@ cat > images/P019.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -709,7 +709,7 @@ cat > images/P020.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -746,7 +746,7 @@ cat > images/P021.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -782,7 +782,7 @@ cat > images/P022.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -821,7 +821,7 @@ cat > images/P023.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -858,7 +858,7 @@ cat > images/P024.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -894,7 +894,7 @@ cat > images/P025.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -931,7 +931,7 @@ cat > images/P026.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -974,7 +974,7 @@ cat > images/P027.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1015,7 +1015,7 @@ cat > images/P028.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1060,7 +1060,7 @@ cat > images/P029.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1096,7 +1096,7 @@ cat > images/P030.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1141,7 +1141,7 @@ cat > images/P031.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1177,7 +1177,7 @@ cat > images/P032.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1216,7 +1216,7 @@ cat > images/P033.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1254,7 +1254,7 @@ cat > images/P034.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1290,7 +1290,7 @@ cat > images/P035.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1326,7 +1326,7 @@ cat > images/P036.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1362,7 +1362,7 @@ cat > images/P037.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1398,7 +1398,7 @@ cat > images/P038.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1438,7 +1438,7 @@ cat > images/P039.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1479,7 +1479,7 @@ cat > images/P040.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1522,7 +1522,7 @@ cat > images/P041.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1561,7 +1561,7 @@ cat > images/P042.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1598,7 +1598,7 @@ cat > images/P043.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1640,7 +1640,7 @@ cat > images/P044.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1686,7 +1686,7 @@ cat > images/P045.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1727,7 +1727,7 @@ cat > images/P046.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1763,7 +1763,7 @@ cat > images/P047.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1803,7 +1803,7 @@ cat > images/P048.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1846,7 +1846,7 @@ cat > images/P049.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1883,7 +1883,7 @@ cat > images/P050.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1922,7 +1922,7 @@ cat > images/P051.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -1963,7 +1963,7 @@ cat > images/P052.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2000,7 +2000,7 @@ cat > images/P053.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2037,7 +2037,7 @@ cat > images/P054.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2076,7 +2076,7 @@ cat > images/P055.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2122,7 +2122,7 @@ cat > images/P056.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2158,7 +2158,7 @@ cat > images/P057.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2200,7 +2200,7 @@ cat > images/P058.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2236,7 +2236,7 @@ cat > images/P059.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2278,7 +2278,7 @@ cat > images/P060.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2314,7 +2314,7 @@ cat > images/P061.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2351,7 +2351,7 @@ cat > images/P062.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2392,7 +2392,7 @@ cat > images/P063.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2428,7 +2428,7 @@ cat > images/P064.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2466,7 +2466,7 @@ cat > images/P065.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2507,7 +2507,7 @@ cat > images/P066.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2543,7 +2543,7 @@ cat > images/P067.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2582,7 +2582,7 @@ cat > images/P068.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2619,7 +2619,7 @@ cat > images/P069.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2655,7 +2655,7 @@ cat > images/P070.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2696,7 +2696,7 @@ cat > images/P071.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2732,7 +2732,7 @@ cat > images/P072.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2771,7 +2771,7 @@ cat > images/P073.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2810,7 +2810,7 @@ cat > images/P074.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2846,7 +2846,7 @@ cat > images/P075.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2883,7 +2883,7 @@ cat > images/P076.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2920,7 +2920,7 @@ cat > images/P077.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2960,7 +2960,7 @@ cat > images/P078.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -2998,7 +2998,7 @@ cat > images/P079.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3035,7 +3035,7 @@ cat > images/P080.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3073,7 +3073,7 @@ cat > images/P081.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3109,7 +3109,7 @@ cat > images/P082.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3147,7 +3147,7 @@ cat > images/P083.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3184,7 +3184,7 @@ cat > images/P084.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3222,7 +3222,7 @@ cat > images/P085.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3261,7 +3261,7 @@ cat > images/P086.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3297,7 +3297,7 @@ cat > images/P087.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3333,7 +3333,7 @@ cat > images/P088.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3369,7 +3369,7 @@ cat > images/P089.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3405,7 +3405,7 @@ cat > images/P090.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3441,7 +3441,7 @@ cat > images/P091.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3477,7 +3477,7 @@ cat > images/P092.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3513,7 +3513,7 @@ cat > images/P093.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3549,7 +3549,7 @@ cat > images/P094.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3585,7 +3585,7 @@ cat > images/P095.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3621,7 +3621,7 @@ cat > images/P096.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3657,7 +3657,7 @@ cat > images/P097.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3693,7 +3693,7 @@ cat > images/P098.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3729,7 +3729,7 @@ cat > images/P099.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3765,7 +3765,7 @@ cat > images/P100.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3801,7 +3801,7 @@ cat > images/P101.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3837,7 +3837,7 @@ cat > images/P102.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3873,7 +3873,7 @@ cat > images/P103.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3909,7 +3909,7 @@ cat > images/P104.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3945,7 +3945,7 @@ cat > images/P105.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -3983,7 +3983,7 @@ cat > images/P106.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4019,7 +4019,7 @@ cat > images/P107.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4058,7 +4058,7 @@ cat > images/P108.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4095,7 +4095,7 @@ cat > images/P109.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4131,7 +4131,7 @@ cat > images/P110.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4172,7 +4172,7 @@ cat > images/P111.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4208,7 +4208,7 @@ cat > images/P112.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4244,7 +4244,7 @@ cat > images/P113.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4280,7 +4280,7 @@ cat > images/P114.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4317,7 +4317,7 @@ cat > images/P115.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4353,7 +4353,7 @@ cat > images/P116.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4390,7 +4390,7 @@ cat > images/P117.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4431,7 +4431,7 @@ cat > images/P118.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4467,7 +4467,7 @@ cat > images/P119.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4503,7 +4503,7 @@ cat > images/P120.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4539,7 +4539,7 @@ cat > images/P121.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4575,7 +4575,7 @@ cat > images/P122.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4613,7 +4613,7 @@ cat > images/P123.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4649,7 +4649,7 @@ cat > images/P124.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4685,7 +4685,7 @@ cat > images/P125.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4721,7 +4721,7 @@ cat > images/P126.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
@@ -4757,7 +4757,7 @@ cat > images/P127.html <<'EOF'
 <div class="navbar">
   <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
-  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:35px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=large&share=true&height=46&appId" style="border:none;overflow:hidden;position:absolute;top:10px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <!-- ####### Facebook and pinterest share buttons at topleft of every image ######-->
 <!-- Will not work in laptop. Will work in web. -->
