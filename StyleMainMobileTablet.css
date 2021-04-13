@@ -21,7 +21,7 @@ body {
   /*background-image: url("Ganges.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg"),url("Ganges_1.jpg"),url("Ganges_2.jpg"),url("Ganges_1.jpg");*/
   /*background-position: 0px 0px, 0px 400px, 0px 600px, 0px 800px, 0px 1000px, 0px 1200px;*/
   /*background-size: 100%;*/
-  background-image: url("Ganges.jpg")
+  background-image: url("Ganges.jpg");
   background-size: cover;
   background-repeat: no-repeat,no-repeat;   
 }
