@@ -305,11 +305,10 @@ citecolor: gray
 <div id="myModal" class="modal">
   <span class="close">&times;</span>      <!-- The Close Button -->
   <img class="modal-content" id="img01">    <!-- Modal Content (The Image) -->
-  <div id="caption"></div>          <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>        <!-- Modal Caption (Image Text) -->
 </div>
 
 <script>
- 
  // Get the modal
  var modal = document.getElementById("myModal"); 
 
@@ -342,7 +341,7 @@ citecolor: gray
     // close modal here
     modal.style.display = "none";
   }
-})
+  })
 </script>
 
 <hr>

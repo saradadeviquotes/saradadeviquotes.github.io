@@ -103,7 +103,7 @@ h1.title {
   width: 90%;
   max-width: 355px;
   float:left;
-  height: 500px
+  height: 555px
 }
 
 .container img {
@@ -219,8 +219,8 @@ h1.title {
 
 .close {
   position: absolute;
-  top: 15px;
-  right: 200px;
+  top: 1px;
+  left: 5%;
   color: #f1f1f1;
   font-size: 40px;
   font-weight: bold;
