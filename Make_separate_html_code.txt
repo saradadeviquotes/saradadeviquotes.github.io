@@ -2,7 +2,7 @@ cat > images/P001.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P001.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -11,7 +11,7 @@ cat > images/P001.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -38,7 +38,7 @@ cat > images/P002.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P002.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -47,7 +47,7 @@ cat > images/P002.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -74,7 +74,7 @@ cat > images/P003.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P003.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -83,7 +83,7 @@ cat > images/P003.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -112,7 +112,7 @@ cat > images/P004.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P004.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -121,7 +121,7 @@ cat > images/P004.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -149,7 +149,7 @@ cat > images/P005.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P005.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -158,7 +158,7 @@ cat > images/P005.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -185,7 +185,7 @@ cat > images/P006.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P006.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -194,7 +194,7 @@ cat > images/P006.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -221,7 +221,7 @@ cat > images/P007.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P007.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -230,7 +230,7 @@ cat > images/P007.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -257,7 +257,7 @@ cat > images/P008.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P008.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -266,7 +266,7 @@ cat > images/P008.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -293,7 +293,7 @@ cat > images/P009.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P009.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -302,7 +302,7 @@ cat > images/P009.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -330,7 +330,7 @@ cat > images/P010.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P010.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -339,7 +339,7 @@ cat > images/P010.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -366,7 +366,7 @@ cat > images/P011.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P011.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -375,7 +375,7 @@ cat > images/P011.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -403,7 +403,7 @@ cat > images/P012.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P012.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -412,7 +412,7 @@ cat > images/P012.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -439,7 +439,7 @@ cat > images/P013.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P013.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -448,7 +448,7 @@ cat > images/P013.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -477,7 +477,7 @@ cat > images/P014.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P014.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -486,7 +486,7 @@ cat > images/P014.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -514,7 +514,7 @@ cat > images/P015.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P015.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -523,7 +523,7 @@ cat > images/P015.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -551,7 +551,7 @@ cat > images/P016.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P016.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -560,7 +560,7 @@ cat > images/P016.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -588,7 +588,7 @@ cat > images/P017.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P017.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -597,7 +597,7 @@ cat > images/P017.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -624,7 +624,7 @@ cat > images/P018.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P018.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -633,7 +633,7 @@ cat > images/P018.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -661,7 +661,7 @@ cat > images/P019.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P019.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -670,7 +670,7 @@ cat > images/P019.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -698,7 +698,7 @@ cat > images/P020.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P020.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -707,7 +707,7 @@ cat > images/P020.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -735,7 +735,7 @@ cat > images/P021.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P021.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -744,7 +744,7 @@ cat > images/P021.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -771,7 +771,7 @@ cat > images/P022.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P022.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -780,7 +780,7 @@ cat > images/P022.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -810,7 +810,7 @@ cat > images/P023.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P023.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -819,7 +819,7 @@ cat > images/P023.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -847,7 +847,7 @@ cat > images/P024.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P024.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -856,7 +856,7 @@ cat > images/P024.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -883,7 +883,7 @@ cat > images/P025.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P025.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -892,7 +892,7 @@ cat > images/P025.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -920,7 +920,7 @@ cat > images/P026.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P026.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -929,7 +929,7 @@ cat > images/P026.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -963,7 +963,7 @@ cat > images/P027.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P027.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -972,7 +972,7 @@ cat > images/P027.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1004,7 +1004,7 @@ cat > images/P028.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P028.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1013,7 +1013,7 @@ cat > images/P028.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1049,7 +1049,7 @@ cat > images/P029.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P029.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1058,7 +1058,7 @@ cat > images/P029.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1085,7 +1085,7 @@ cat > images/P030.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P030.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1094,7 +1094,7 @@ cat > images/P030.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1130,7 +1130,7 @@ cat > images/P031.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P031.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1139,7 +1139,7 @@ cat > images/P031.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1166,7 +1166,7 @@ cat > images/P032.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P032.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1175,7 +1175,7 @@ cat > images/P032.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1205,7 +1205,7 @@ cat > images/P033.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P033.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1214,7 +1214,7 @@ cat > images/P033.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1243,7 +1243,7 @@ cat > images/P034.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P034.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1252,7 +1252,7 @@ cat > images/P034.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1279,7 +1279,7 @@ cat > images/P035.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P035.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1288,7 +1288,7 @@ cat > images/P035.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1315,7 +1315,7 @@ cat > images/P036.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P036.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1324,7 +1324,7 @@ cat > images/P036.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1351,7 +1351,7 @@ cat > images/P037.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P037.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1360,7 +1360,7 @@ cat > images/P037.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1387,7 +1387,7 @@ cat > images/P038.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P038.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1396,7 +1396,7 @@ cat > images/P038.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1427,7 +1427,7 @@ cat > images/P039.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P039.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1436,7 +1436,7 @@ cat > images/P039.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1468,7 +1468,7 @@ cat > images/P040.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P040.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1477,7 +1477,7 @@ cat > images/P040.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1511,7 +1511,7 @@ cat > images/P041.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P041.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1520,7 +1520,7 @@ cat > images/P041.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1550,7 +1550,7 @@ cat > images/P042.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P042.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1559,7 +1559,7 @@ cat > images/P042.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1587,7 +1587,7 @@ cat > images/P043.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P043.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1596,7 +1596,7 @@ cat > images/P043.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1629,7 +1629,7 @@ cat > images/P044.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P044.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1638,7 +1638,7 @@ cat > images/P044.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1675,7 +1675,7 @@ cat > images/P045.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P045.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1684,7 +1684,7 @@ cat > images/P045.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1716,7 +1716,7 @@ cat > images/P046.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P046.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1725,7 +1725,7 @@ cat > images/P046.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1752,7 +1752,7 @@ cat > images/P047.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P047.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1761,7 +1761,7 @@ cat > images/P047.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1792,7 +1792,7 @@ cat > images/P048.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P048.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1801,7 +1801,7 @@ cat > images/P048.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1835,7 +1835,7 @@ cat > images/P049.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P049.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1844,7 +1844,7 @@ cat > images/P049.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1872,7 +1872,7 @@ cat > images/P050.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P050.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1881,7 +1881,7 @@ cat > images/P050.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1911,7 +1911,7 @@ cat > images/P051.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P051.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1920,7 +1920,7 @@ cat > images/P051.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1952,7 +1952,7 @@ cat > images/P052.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P052.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1961,7 +1961,7 @@ cat > images/P052.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -1989,7 +1989,7 @@ cat > images/P053.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P053.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -1998,7 +1998,7 @@ cat > images/P053.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2026,7 +2026,7 @@ cat > images/P054.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P054.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2035,7 +2035,7 @@ cat > images/P054.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2065,7 +2065,7 @@ cat > images/P055.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P055.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2074,7 +2074,7 @@ cat > images/P055.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2111,7 +2111,7 @@ cat > images/P056.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P056.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2120,7 +2120,7 @@ cat > images/P056.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2147,7 +2147,7 @@ cat > images/P057.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P057.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2156,7 +2156,7 @@ cat > images/P057.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2189,7 +2189,7 @@ cat > images/P058.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P058.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2198,7 +2198,7 @@ cat > images/P058.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2225,7 +2225,7 @@ cat > images/P059.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P059.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2234,7 +2234,7 @@ cat > images/P059.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2267,7 +2267,7 @@ cat > images/P060.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P060.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2276,7 +2276,7 @@ cat > images/P060.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2303,7 +2303,7 @@ cat > images/P061.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P061.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2312,7 +2312,7 @@ cat > images/P061.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2340,7 +2340,7 @@ cat > images/P062.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P062.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2349,7 +2349,7 @@ cat > images/P062.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2381,7 +2381,7 @@ cat > images/P063.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P063.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2390,7 +2390,7 @@ cat > images/P063.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2417,7 +2417,7 @@ cat > images/P064.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P064.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2426,7 +2426,7 @@ cat > images/P064.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2455,7 +2455,7 @@ cat > images/P065.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P065.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2464,7 +2464,7 @@ cat > images/P065.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2496,7 +2496,7 @@ cat > images/P066.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P066.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2505,7 +2505,7 @@ cat > images/P066.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2532,7 +2532,7 @@ cat > images/P067.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P067.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2541,7 +2541,7 @@ cat > images/P067.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2571,7 +2571,7 @@ cat > images/P068.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P068.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2580,7 +2580,7 @@ cat > images/P068.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2608,7 +2608,7 @@ cat > images/P069.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P069.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2617,7 +2617,7 @@ cat > images/P069.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2644,7 +2644,7 @@ cat > images/P070.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P070.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2653,7 +2653,7 @@ cat > images/P070.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2685,7 +2685,7 @@ cat > images/P071.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P071.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2694,7 +2694,7 @@ cat > images/P071.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2721,7 +2721,7 @@ cat > images/P072.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P072.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2730,7 +2730,7 @@ cat > images/P072.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2760,7 +2760,7 @@ cat > images/P073.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P073.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2769,7 +2769,7 @@ cat > images/P073.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2799,7 +2799,7 @@ cat > images/P074.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P074.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2808,7 +2808,7 @@ cat > images/P074.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2835,7 +2835,7 @@ cat > images/P075.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P075.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2844,7 +2844,7 @@ cat > images/P075.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2872,7 +2872,7 @@ cat > images/P076.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P076.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2881,7 +2881,7 @@ cat > images/P076.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2909,7 +2909,7 @@ cat > images/P077.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P077.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2918,7 +2918,7 @@ cat > images/P077.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2949,7 +2949,7 @@ cat > images/P078.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P078.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2958,7 +2958,7 @@ cat > images/P078.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -2987,7 +2987,7 @@ cat > images/P079.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P079.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -2996,7 +2996,7 @@ cat > images/P079.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3024,7 +3024,7 @@ cat > images/P080.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P080.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3033,7 +3033,7 @@ cat > images/P080.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3062,7 +3062,7 @@ cat > images/P081.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P081.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3071,7 +3071,7 @@ cat > images/P081.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3098,7 +3098,7 @@ cat > images/P082.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P082.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3107,7 +3107,7 @@ cat > images/P082.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3136,7 +3136,7 @@ cat > images/P083.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P083.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3145,7 +3145,7 @@ cat > images/P083.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3173,7 +3173,7 @@ cat > images/P084.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P084.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3182,7 +3182,7 @@ cat > images/P084.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3211,7 +3211,7 @@ cat > images/P085.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P085.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3220,7 +3220,7 @@ cat > images/P085.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3250,7 +3250,7 @@ cat > images/P086.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P086.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3259,7 +3259,7 @@ cat > images/P086.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3286,7 +3286,7 @@ cat > images/P087.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P087.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3295,7 +3295,7 @@ cat > images/P087.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3322,7 +3322,7 @@ cat > images/P088.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P088.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3331,7 +3331,7 @@ cat > images/P088.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3358,7 +3358,7 @@ cat > images/P089.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P089.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3367,7 +3367,7 @@ cat > images/P089.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3394,7 +3394,7 @@ cat > images/P090.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P090.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3403,7 +3403,7 @@ cat > images/P090.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3430,7 +3430,7 @@ cat > images/P091.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P091.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3439,7 +3439,7 @@ cat > images/P091.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3466,7 +3466,7 @@ cat > images/P092.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P092.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3475,7 +3475,7 @@ cat > images/P092.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3502,7 +3502,7 @@ cat > images/P093.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P093.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3511,7 +3511,7 @@ cat > images/P093.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3538,7 +3538,7 @@ cat > images/P094.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P094.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3547,7 +3547,7 @@ cat > images/P094.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3574,7 +3574,7 @@ cat > images/P095.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P095.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3583,7 +3583,7 @@ cat > images/P095.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3610,7 +3610,7 @@ cat > images/P096.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P096.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3619,7 +3619,7 @@ cat > images/P096.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3646,7 +3646,7 @@ cat > images/P097.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P097.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3655,7 +3655,7 @@ cat > images/P097.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3682,7 +3682,7 @@ cat > images/P098.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P098.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3691,7 +3691,7 @@ cat > images/P098.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3718,7 +3718,7 @@ cat > images/P099.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P099.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3727,7 +3727,7 @@ cat > images/P099.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3754,7 +3754,7 @@ cat > images/P100.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P100.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3763,7 +3763,7 @@ cat > images/P100.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3790,7 +3790,7 @@ cat > images/P101.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P101.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3799,7 +3799,7 @@ cat > images/P101.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3826,7 +3826,7 @@ cat > images/P102.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P102.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3835,7 +3835,7 @@ cat > images/P102.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3862,7 +3862,7 @@ cat > images/P103.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P103.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3871,7 +3871,7 @@ cat > images/P103.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3898,7 +3898,7 @@ cat > images/P104.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P104.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3907,7 +3907,7 @@ cat > images/P104.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3934,7 +3934,7 @@ cat > images/P105.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P105.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3943,7 +3943,7 @@ cat > images/P105.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -3972,7 +3972,7 @@ cat > images/P106.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P106.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -3981,7 +3981,7 @@ cat > images/P106.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4008,7 +4008,7 @@ cat > images/P107.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P107.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4017,7 +4017,7 @@ cat > images/P107.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4047,7 +4047,7 @@ cat > images/P108.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P108.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4056,7 +4056,7 @@ cat > images/P108.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4084,7 +4084,7 @@ cat > images/P109.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P109.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4093,7 +4093,7 @@ cat > images/P109.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4120,7 +4120,7 @@ cat > images/P110.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P110.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4129,7 +4129,7 @@ cat > images/P110.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4161,7 +4161,7 @@ cat > images/P111.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P111.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4170,7 +4170,7 @@ cat > images/P111.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4197,7 +4197,7 @@ cat > images/P112.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P112.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4206,7 +4206,7 @@ cat > images/P112.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4233,7 +4233,7 @@ cat > images/P113.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P113.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4242,7 +4242,7 @@ cat > images/P113.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4269,7 +4269,7 @@ cat > images/P114.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P114.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4278,7 +4278,7 @@ cat > images/P114.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4306,7 +4306,7 @@ cat > images/P115.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P115.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4315,7 +4315,7 @@ cat > images/P115.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4342,7 +4342,7 @@ cat > images/P116.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P116.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4351,7 +4351,7 @@ cat > images/P116.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4379,7 +4379,7 @@ cat > images/P117.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P117.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4388,7 +4388,7 @@ cat > images/P117.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4420,7 +4420,7 @@ cat > images/P118.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P118.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4429,7 +4429,7 @@ cat > images/P118.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4456,7 +4456,7 @@ cat > images/P119.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P119.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4465,7 +4465,7 @@ cat > images/P119.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4492,7 +4492,7 @@ cat > images/P120.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P120.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4501,7 +4501,7 @@ cat > images/P120.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4528,7 +4528,7 @@ cat > images/P121.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P121.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4537,7 +4537,7 @@ cat > images/P121.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4564,7 +4564,7 @@ cat > images/P122.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P122.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4573,7 +4573,7 @@ cat > images/P122.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4602,7 +4602,7 @@ cat > images/P123.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P123.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4611,7 +4611,7 @@ cat > images/P123.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4638,7 +4638,7 @@ cat > images/P124.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P124.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4647,7 +4647,7 @@ cat > images/P124.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4674,7 +4674,7 @@ cat > images/P125.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P125.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4683,7 +4683,7 @@ cat > images/P125.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4710,7 +4710,7 @@ cat > images/P126.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P126.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4719,7 +4719,7 @@ cat > images/P126.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -4746,7 +4746,7 @@ cat > images/P127.html <<'EOF'
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="../StyleSub.css">
+<script src="../BrowserDetectionSub.js"></script>
 <meta property="og:url"  content="https://saradadeviquotes.github.io/images/P127.jpeg" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="" />
@@ -4755,7 +4755,7 @@ cat > images/P127.html <<'EOF'
 </head>
 <body width = 500px>
 <div class="navbar">
-  <a href="../index.html"><img src="../home.png" title="Home" width=35px></a>
+  <a href="../index.html"><img src="../home.png" title="Home"></a>
   <!-- <a href="https://archive.org/details/in.ernet.dli.2015.299483" target="_blank"><img src="Ma.png" title="Sri Sri Mayer Katha" width=50px></a> -->
   <iframe align="right" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fsaradadeviquotes.github.io&width=10&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden;position:absolute;top:17px;right:1px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>

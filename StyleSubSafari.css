@@ -49,6 +49,19 @@ body {
   font-size: medium;
 }
 
+/* -- Images inside the navbar */
+
+.navbar img{
+  width: 35px;
+}
+
+/* -- iframes inside the navbar */
+
+.navbar iframe{
+  width: 150px; 
+  height: 46px;
+}
+ 
 /* -- Change background on mouse-over */
 
 .navbar a:hover {
