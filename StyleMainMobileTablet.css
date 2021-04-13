@@ -4,6 +4,14 @@
 /* ####################################################################### */
 
 
+/* To turn off printing title */
+
+.author,.title{
+    display: none;
+}
+
+
+
 /* Style html body */
 
 body { 
