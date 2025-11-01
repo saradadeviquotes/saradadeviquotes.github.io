@@ -27,38 +27,51 @@ citecolor: gray
 <!-- Facebook Analytics JavaScript SDK -->
 
 <script>
-// Only load the Facebook SDK if we're NOT on mobile/tablet.
-// If the detector isn't available for any reason, default to loading (desktop behavior).
-document.addEventListener("DOMContentLoaded", function () {
-  var isMobileOrTablet =
-    (typeof window.mobileAndTabletCheck === "function") &&
-    window.mobileAndTabletCheck();
-
-  if (isMobileOrTablet) {
-    console.log("Mobile/Tablet detected — skipping Facebook SDK.");
-    return; // do nothing
+(function () {
+  // Treat as mobile/tablet if (a) your detector says so, OR
+  // (b) it looks like a touch/narrow device (helps catch iPadOS "Request Desktop Site")
+  function isMobileOrTablet() {
+    var detectorSaysMobile = (typeof window.mobileAndTabletCheck === "function") && window.mobileAndTabletCheck();
+    var isTouch = ("ontouchstart" in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
+    var narrowScreen = Math.min(window.screen.width || 0, window.screen.height || 0) <= 1024;
+    return !!(detectorSaysMobile || (isTouch && narrowScreen));
   }
 
-  // Desktop: load SDK
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId   : '127776775941065',
-      cookie  : true,
-      xfbml   : true,
-      version : 'v10.0'
-    });
-    FB.AppEvents.logPageView();
-  };
+  function loadFacebookSDK() {
+    // Double-check again right before loading
+    if (isMobileOrTablet()) {
+      console.log("Mobile/Tablet detected — skipping Facebook SDK.");
+      return;
+    }
 
-  (function(d, s, id){
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return; // avoid duplicate loads
-    js = d.createElement(s); js.id = id;
+    if (document.getElementById("facebook-jssdk")) return; // avoid duplicate loads
+
+    window.fbAsyncInit = function () {
+      FB.init({
+        appId: "127776775941065",
+        cookie: true,
+        xfbml: true,
+        version: "v10.0"
+      });
+      FB.AppEvents.logPageView();
+    };
+
+    var d = document, s = "script", id = "facebook-jssdk";
+    var js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];
+    js.id = id;
     js.src = "https://connect.facebook.net/en_US/sdk.js";
     fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-});
+  }
+
+  // Run as soon as DOM is ready (and also safe if this runs after)
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", loadFacebookSDK);
+  } else {
+    loadFacebookSDK();
+  }
+})();
 </script>
+
 
 
 
