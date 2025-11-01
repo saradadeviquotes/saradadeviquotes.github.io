@@ -29,6 +29,7 @@ citecolor: gray
 
 <!-- Facebook Analytics JavaScript SDK -->
 
+<!--
 <script>
 (function () {
   function isMobileOrTablet() {
@@ -66,7 +67,7 @@ citecolor: gray
   }
 })();
 </script>
-
+-->
 
 
 
