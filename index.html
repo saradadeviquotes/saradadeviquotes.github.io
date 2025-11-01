@@ -418,49 +418,9 @@ display: none;
 <div id="fb-root">
 
 </div>
-<!-- <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="bJcxDrwu"> -->
-<script role="img" id="fb-sdk-template" type="application/json" data-src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v10.0">
+<script role="img" async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v10.0" nonce="bJcxDrwu">
 </script>
 <!-- Facebook Analytics JavaScript SDK -->
-<!--
-<script>
-(function () {
-  function isMobileOrTablet() {
-    var detector = (typeof window.mobileAndTabletCheck === "function") && window.mobileAndTabletCheck();
-    var touch = ("ontouchstart" in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
-    var narrow = Math.min(screen.width || 0, screen.height || 0) <= 1024;
-    return !!(detector || (touch && narrow));
-  }
-
-  function activateFacebookSDK() {
-    if (isMobileOrTablet()) { console.log("Mobile/Tablet — not activating FB SDK"); return; }
-    if (document.getElementById("facebook-jssdk")) return;
-
-    window.fbAsyncInit = function () {
-      FB.init({ appId: "127776775941065", cookie: true, xfbml: true, version: "v10.0" });
-      FB.AppEvents.logPageView();
-    };
-
-    var tpl = document.getElementById("fb-sdk-template");
-    if (!tpl) return;
-    var src = tpl.getAttribute("data-src");
-    if (!src) return;
-
-    var s = document.createElement("script");
-    s.id = "facebook-jssdk";
-    s.src = src;
-    var first = document.getElementsByTagName("script")[0];
-    first.parentNode.insertBefore(s, first);
-  }
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", activateFacebookSDK);
-  } else {
-    activateFacebookSDK();
-  }
-})();
-</script>
--->
 <!-- Set styles for overall width of the HTML page, p, title font etc -->
 <style type="text/css"> 
 .main-container {
