@@ -418,51 +418,44 @@ display: none;
 <div id="fb-root">
 
 </div>
-<script role="img" async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v10.0" nonce="bJcxDrwu">
+<!-- <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="bJcxDrwu"> -->
+<script role="img" id="fb-sdk-template" type="application/json" data-src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v10.0">
 </script>
 <!-- Facebook Analytics JavaScript SDK -->
 <script>
 (function () {
-  // Treat as mobile/tablet if (a) your detector says so, OR
-  // (b) it looks like a touch/narrow device (helps catch iPadOS "Request Desktop Site")
   function isMobileOrTablet() {
-    var detectorSaysMobile = (typeof window.mobileAndTabletCheck === "function") && window.mobileAndTabletCheck();
-    var isTouch = ("ontouchstart" in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
-    var narrowScreen = Math.min(window.screen.width || 0, window.screen.height || 0) <= 1024;
-    return !!(detectorSaysMobile || (isTouch && narrowScreen));
+    var detector = (typeof window.mobileAndTabletCheck === "function") && window.mobileAndTabletCheck();
+    var touch = ("ontouchstart" in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
+    var narrow = Math.min(screen.width || 0, screen.height || 0) <= 1024;
+    return !!(detector || (touch && narrow));
   }
 
-  function loadFacebookSDK() {
-    // Double-check again right before loading
-    if (isMobileOrTablet()) {
-      console.log("Mobile/Tablet detected — skipping Facebook SDK.");
-      return;
-    }
-
-    if (document.getElementById("facebook-jssdk")) return; // avoid duplicate loads
+  function activateFacebookSDK() {
+    if (isMobileOrTablet()) { console.log("Mobile/Tablet — not activating FB SDK"); return; }
+    if (document.getElementById("facebook-jssdk")) return;
 
     window.fbAsyncInit = function () {
-      FB.init({
-        appId: "127776775941065",
-        cookie: true,
-        xfbml: true,
-        version: "v10.0"
-      });
+      FB.init({ appId: "127776775941065", cookie: true, xfbml: true, version: "v10.0" });
       FB.AppEvents.logPageView();
     };
 
-    var d = document, s = "script", id = "facebook-jssdk";
-    var js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];
-    js.id = id;
-    js.src = "https://connect.facebook.net/en_US/sdk.js";
-    fjs.parentNode.insertBefore(js, fjs);
+    var tpl = document.getElementById("fb-sdk-template");
+    if (!tpl) return;
+    var src = tpl.getAttribute("data-src");
+    if (!src) return;
+
+    var s = document.createElement("script");
+    s.id = "facebook-jssdk";
+    s.src = src;
+    var first = document.getElementsByTagName("script")[0];
+    first.parentNode.insertBefore(s, first);
   }
 
-  // Run as soon as DOM is ready (and also safe if this runs after)
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", loadFacebookSDK);
+    document.addEventListener("DOMContentLoaded", activateFacebookSDK);
   } else {
-    loadFacebookSDK();
+    activateFacebookSDK();
   }
 })();
 </script>
