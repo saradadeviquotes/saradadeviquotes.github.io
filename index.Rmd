@@ -15,7 +15,7 @@ citecolor: gray
  
 
 
-<!-- JavaScript SDK for enabling Facebook Comments Plugin -->
+<!-- Facebook Comments Plugin JavaScript SDK -->
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="bJcxDrwu">
@@ -24,29 +24,42 @@ citecolor: gray
 
 
 
-<!-- JavaScript SDK for enabling Facebook Analytics -->
+<!-- Facebook Analytics JavaScript SDK -->
 
 <script>
+// Only load the Facebook SDK if we're NOT on mobile/tablet.
+// If the detector isn't available for any reason, default to loading (desktop behavior).
+document.addEventListener("DOMContentLoaded", function () {
+  var isMobileOrTablet =
+    (typeof window.mobileAndTabletCheck === "function") &&
+    window.mobileAndTabletCheck();
+
+  if (isMobileOrTablet) {
+    console.log("Mobile/Tablet detected — skipping Facebook SDK.");
+    return; // do nothing
+  }
+
+  // Desktop: load SDK
   window.fbAsyncInit = function() {
     FB.init({
-      appId      : '127776775941065',
-      cookie     : true,
-      xfbml      : true,
-      version    : 'v10.0'
+      appId   : '127776775941065',
+      cookie  : true,
+      xfbml   : true,
+      version : 'v10.0'
     });
-      
-    FB.AppEvents.logPageView();   
-      
+    FB.AppEvents.logPageView();
   };
 
   (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return; // avoid duplicate loads
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+});
 </script>
+
 
 
 
