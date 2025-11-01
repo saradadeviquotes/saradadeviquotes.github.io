@@ -26,8 +26,27 @@ citecolor: gray
 
 <!-- Facebook Analytics JavaScript SDK -->
 
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '127776775941065',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v10.0'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
 
-
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 
 
 
@@ -68,7 +87,33 @@ citecolor: gray
 
 <!-- Facebook like and share widget -->
 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSarada-Devi-Quotes-106119718202793&tabs=timeline&width=280&height=20&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=127776775941065" width="270" height="200" style="border:none;overflow:hidden;position:absolute;top:70px;right:18px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<div id="fb-widget-container">
+  <iframe
+    src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSarada-Devi-Quotes-106119718202793&tabs=timeline&width=280&height=20&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=127776775941065"
+    width="270"
+    height="200"
+    style="border:none;overflow:hidden;position:absolute;top:70px;right:18px"
+    scrolling="no"
+    frameborder="0"
+    allowfullscreen="true"
+    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+  </iframe>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // uses BrowserDetectionMain.js
+  var isMobileOrTablet =
+    (typeof window.mobileAndTabletCheck === "function") &&
+    window.mobileAndTabletCheck();
+
+  if (isMobileOrTablet) {
+    console.log("Mobile/tablet detected — removing Facebook widget");
+    var container = document.getElementById("fb-widget-container");
+    if (container) container.remove();
+  }
+});
+</script>
 
 
 
@@ -109,7 +154,7 @@ citecolor: gray
 
 <div align="center"><p style="width: 60%;">
 <i><font size=4>বিভিন্ন গ্রন্থ থেকে সংগৃহীত শ্রীশ্রীমায়ের উক্তিসমূহ<br><br></font></i>
-<font size=4>(প্রত্যেকবার পেজ রিফ্রেশ করলে নয়টি যে-কোনো উদ্ধৃতি আসবে)</font>
+<font size=2>(প্রত্যেকবার পেজ রিফ্রেশ করলে নয়টি যে-কোনো উদ্ধৃতি আসবে)</font>
 </p></div> 
 
 <p>&nbsp;<br></p>
